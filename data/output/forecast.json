@@ -1,0 +1,2042 @@
+[
+  {
+    "date": "2024-01-01",
+    "predictedValue": 266.3694625501633,
+    "actualValue": 130.459,
+    "deviation": "104.18"
+  },
+  {
+    "date": "2024-01-02",
+    "predictedValue": 269.73623163032534,
+    "actualValue": 333.839,
+    "deviation": "19.20"
+  },
+  {
+    "date": "2024-01-03",
+    "predictedValue": 273.3712985305786,
+    "actualValue": 323.878,
+    "deviation": "15.59"
+  },
+  {
+    "date": "2024-01-04",
+    "predictedValue": 279.182768576622,
+    "actualValue": 328.813,
+    "deviation": "15.09"
+  },
+  {
+    "date": "2024-01-05",
+    "predictedValue": 279.6690663461685,
+    "actualValue": 341.222,
+    "deviation": "18.04"
+  },
+  {
+    "date": "2024-01-06",
+    "predictedValue": 279.10020559120176,
+    "actualValue": 343.199,
+    "deviation": "18.68"
+  },
+  {
+    "date": "2024-01-07",
+    "predictedValue": 278.57261357593535,
+    "actualValue": 349.513,
+    "deviation": "20.30"
+  },
+  {
+    "date": "2024-01-08",
+    "predictedValue": 277.98115448760984,
+    "actualValue": 356.985,
+    "deviation": "22.13"
+  },
+  {
+    "date": "2024-01-09",
+    "predictedValue": 277.7713164644241,
+    "actualValue": 344.245,
+    "deviation": "19.31"
+  },
+  {
+    "date": "2024-01-10",
+    "predictedValue": 277.1814132432938,
+    "actualValue": 356.506,
+    "deviation": "22.25"
+  },
+  {
+    "date": "2024-01-11",
+    "predictedValue": 283.7742601995468,
+    "actualValue": 351.972,
+    "deviation": "19.38"
+  },
+  {
+    "date": "2024-01-12",
+    "predictedValue": 285.1092962770462,
+    "actualValue": 363.268,
+    "deviation": "21.52"
+  },
+  {
+    "date": "2024-01-13",
+    "predictedValue": 286.3065998487472,
+    "actualValue": 352.9,
+    "deviation": "18.87"
+  },
+  {
+    "date": "2024-01-14",
+    "predictedValue": 287.38359152603147,
+    "actualValue": 364.695,
+    "deviation": "21.20"
+  },
+  {
+    "date": "2024-01-15",
+    "predictedValue": 288.30548109817505,
+    "actualValue": 347.612,
+    "deviation": "17.06"
+  },
+  {
+    "date": "2024-01-16",
+    "predictedValue": 289.2387208490372,
+    "actualValue": 314.971,
+    "deviation": "8.17"
+  },
+  {
+    "date": "2024-01-17",
+    "predictedValue": 290.1769597797394,
+    "actualValue": 340.217,
+    "deviation": "14.71"
+  },
+  {
+    "date": "2024-01-18",
+    "predictedValue": 291.11343879508973,
+    "actualValue": 339.139,
+    "deviation": "14.16"
+  },
+  {
+    "date": "2024-01-19",
+    "predictedValue": 292.06356353092195,
+    "actualValue": 333.18,
+    "deviation": "12.34"
+  },
+  {
+    "date": "2024-01-20",
+    "predictedValue": 292.99904781150815,
+    "actualValue": 336.399,
+    "deviation": "12.90"
+  },
+  {
+    "date": "2024-01-21",
+    "predictedValue": 293.93022157478333,
+    "actualValue": 344.863,
+    "deviation": "14.77"
+  },
+  {
+    "date": "2024-01-22",
+    "predictedValue": 294.6964989213943,
+    "actualValue": 315.046,
+    "deviation": "6.46"
+  },
+  {
+    "date": "2024-01-23",
+    "predictedValue": 295.4216860704422,
+    "actualValue": 344.648,
+    "deviation": "14.28"
+  },
+  {
+    "date": "2024-01-24",
+    "predictedValue": 296.1107056837082,
+    "actualValue": 326.771,
+    "deviation": "9.38"
+  },
+  {
+    "date": "2024-01-25",
+    "predictedValue": 296.76751119422914,
+    "actualValue": 321.989,
+    "deviation": "7.83"
+  },
+  {
+    "date": "2024-01-26",
+    "predictedValue": 297.3960305290222,
+    "actualValue": 333.812,
+    "deviation": "10.91"
+  },
+  {
+    "date": "2024-01-27",
+    "predictedValue": 297.9955495195389,
+    "actualValue": 341.918,
+    "deviation": "12.85"
+  },
+  {
+    "date": "2024-01-28",
+    "predictedValue": 298.5661701898575,
+    "actualValue": 340.247,
+    "deviation": "12.25"
+  },
+  {
+    "date": "2024-01-29",
+    "predictedValue": 299.10837715435025,
+    "actualValue": 310.516,
+    "deviation": "3.67"
+  },
+  {
+    "date": "2024-01-30",
+    "predictedValue": 299.62186434078217,
+    "actualValue": 325.433,
+    "deviation": "7.93"
+  },
+  {
+    "date": "2024-01-31",
+    "predictedValue": 300.1074734477997,
+    "actualValue": 328.704,
+    "deviation": "8.70"
+  },
+  {
+    "date": "2024-02-01",
+    "predictedValue": 300.56584212589263,
+    "actualValue": 337.813,
+    "deviation": "11.03"
+  },
+  {
+    "date": "2024-02-02",
+    "predictedValue": 301.0012298803329,
+    "actualValue": 340.211,
+    "deviation": "11.53"
+  },
+  {
+    "date": "2024-02-03",
+    "predictedValue": 301.4148865060806,
+    "actualValue": 330.751,
+    "deviation": "8.87"
+  },
+  {
+    "date": "2024-02-04",
+    "predictedValue": 301.8079087619781,
+    "actualValue": 348.453,
+    "deviation": "13.39"
+  },
+  {
+    "date": "2024-02-05",
+    "predictedValue": 302.18126587677,
+    "actualValue": 318.793,
+    "deviation": "5.21"
+  },
+  {
+    "date": "2024-02-06",
+    "predictedValue": 302.53577404308317,
+    "actualValue": 322.56,
+    "deviation": "6.21"
+  },
+  {
+    "date": "2024-02-07",
+    "predictedValue": 302.87245350170133,
+    "actualValue": 337.755,
+    "deviation": "10.33"
+  },
+  {
+    "date": "2024-02-08",
+    "predictedValue": 303.1920694332123,
+    "actualValue": 336.924,
+    "deviation": "10.01"
+  },
+  {
+    "date": "2024-02-09",
+    "predictedValue": 303.4955400543213,
+    "actualValue": 317.391,
+    "deviation": "4.38"
+  },
+  {
+    "date": "2024-02-10",
+    "predictedValue": 303.7837580757141,
+    "actualValue": 339.447,
+    "deviation": "10.51"
+  },
+  {
+    "date": "2024-02-11",
+    "predictedValue": 304.0574886779785,
+    "actualValue": 350.725,
+    "deviation": "13.31"
+  },
+  {
+    "date": "2024-02-12",
+    "predictedValue": 304.31762457180025,
+    "actualValue": 333.441,
+    "deviation": "8.73"
+  },
+  {
+    "date": "2024-02-13",
+    "predictedValue": 304.56480340766905,
+    "actualValue": 327.009,
+    "deviation": "6.86"
+  },
+  {
+    "date": "2024-02-14",
+    "predictedValue": 304.79963733005525,
+    "actualValue": 329.215,
+    "deviation": "7.42"
+  },
+  {
+    "date": "2024-02-15",
+    "predictedValue": 305.02281500148774,
+    "actualValue": 321.922,
+    "deviation": "5.25"
+  },
+  {
+    "date": "2024-02-16",
+    "predictedValue": 305.23492306041715,
+    "actualValue": 322.297,
+    "deviation": "5.29"
+  },
+  {
+    "date": "2024-02-17",
+    "predictedValue": 305.436497133255,
+    "actualValue": 333.702,
+    "deviation": "8.47"
+  },
+  {
+    "date": "2024-02-18",
+    "predictedValue": 305.62807284641264,
+    "actualValue": 321.754,
+    "deviation": "5.01"
+  },
+  {
+    "date": "2024-02-19",
+    "predictedValue": 305.81016032028197,
+    "actualValue": 301.016,
+    "deviation": "1.59"
+  },
+  {
+    "date": "2024-02-20",
+    "predictedValue": 305.9832696752548,
+    "actualValue": 320.968,
+    "deviation": "4.67"
+  },
+  {
+    "date": "2024-02-21",
+    "predictedValue": 306.14780900764464,
+    "actualValue": 288.372,
+    "deviation": "6.16"
+  },
+  {
+    "date": "2024-02-22",
+    "predictedValue": 306.3042629318237,
+    "actualValue": 292.521,
+    "deviation": "4.71"
+  },
+  {
+    "date": "2024-02-23",
+    "predictedValue": 306.45298853206634,
+    "actualValue": 287.569,
+    "deviation": "6.57"
+  },
+  {
+    "date": "2024-02-24",
+    "predictedValue": 306.59439390468594,
+    "actualValue": 304.149,
+    "deviation": "0.80"
+  },
+  {
+    "date": "2024-02-25",
+    "predictedValue": 306.7288361339569,
+    "actualValue": 313.626,
+    "deviation": "2.20"
+  },
+  {
+    "date": "2024-02-26",
+    "predictedValue": 306.85667230415345,
+    "actualValue": 313.553,
+    "deviation": "2.14"
+  },
+  {
+    "date": "2024-02-27",
+    "predictedValue": 306.97825949954984,
+    "actualValue": 302.278,
+    "deviation": "1.55"
+  },
+  {
+    "date": "2024-02-28",
+    "predictedValue": 307.0938782863617,
+    "actualValue": 304.35,
+    "deviation": "0.90"
+  },
+  {
+    "date": "2024-02-29",
+    "predictedValue": 307.20380923080444,
+    "actualValue": 316.037,
+    "deviation": "2.79"
+  },
+  {
+    "date": "2024-03-01",
+    "predictedValue": 307.3083584051132,
+    "actualValue": 307.683,
+    "deviation": "0.12"
+  },
+  {
+    "date": "2024-03-02",
+    "predictedValue": 307.4078063755035,
+    "actualValue": 291.13,
+    "deviation": "5.59"
+  },
+  {
+    "date": "2024-03-03",
+    "predictedValue": 307.50238269615176,
+    "actualValue": 313.983,
+    "deviation": "2.06"
+  },
+  {
+    "date": "2024-03-04",
+    "predictedValue": 307.5923424272537,
+    "actualValue": 291.183,
+    "deviation": "5.64"
+  },
+  {
+    "date": "2024-03-05",
+    "predictedValue": 307.67786411094664,
+    "actualValue": 299.052,
+    "deviation": "2.88"
+  },
+  {
+    "date": "2024-03-06",
+    "predictedValue": 307.75922831344604,
+    "actualValue": 300.34,
+    "deviation": "2.47"
+  },
+  {
+    "date": "2024-03-07",
+    "predictedValue": 307.8366645889282,
+    "actualValue": 313.186,
+    "deviation": "1.71"
+  },
+  {
+    "date": "2024-03-08",
+    "predictedValue": 307.91024945545195,
+    "actualValue": 308.368,
+    "deviation": "0.15"
+  },
+  {
+    "date": "2024-03-09",
+    "predictedValue": 307.9802889852524,
+    "actualValue": 302.043,
+    "deviation": "1.97"
+  },
+  {
+    "date": "2024-03-10",
+    "predictedValue": 308.04691070842745,
+    "actualValue": 326.995,
+    "deviation": "5.79"
+  },
+  {
+    "date": "2024-03-11",
+    "predictedValue": 308.11026766109467,
+    "actualValue": 293.544,
+    "deviation": "4.96"
+  },
+  {
+    "date": "2024-03-12",
+    "predictedValue": 308.17056389141084,
+    "actualValue": 286.801,
+    "deviation": "7.45"
+  },
+  {
+    "date": "2024-03-13",
+    "predictedValue": 308.2279269294739,
+    "actualValue": 295.308,
+    "deviation": "4.38"
+  },
+  {
+    "date": "2024-03-14",
+    "predictedValue": 308.2824843053818,
+    "actualValue": 288.641,
+    "deviation": "6.80"
+  },
+  {
+    "date": "2024-03-15",
+    "predictedValue": 308.3343890552521,
+    "actualValue": 288.339,
+    "deviation": "6.93"
+  },
+  {
+    "date": "2024-03-16",
+    "predictedValue": 308.38376870918273,
+    "actualValue": 285.196,
+    "deviation": "8.13"
+  },
+  {
+    "date": "2024-03-17",
+    "predictedValue": 308.43072529125214,
+    "actualValue": 299.432,
+    "deviation": "3.01"
+  },
+  {
+    "date": "2024-03-18",
+    "predictedValue": 308.47543734359743,
+    "actualValue": 294.848,
+    "deviation": "4.62"
+  },
+  {
+    "date": "2024-03-19",
+    "predictedValue": 308.51798138427733,
+    "actualValue": 279.991,
+    "deviation": "10.19"
+  },
+  {
+    "date": "2024-03-20",
+    "predictedValue": 308.5584084253311,
+    "actualValue": 271.5,
+    "deviation": "13.65"
+  },
+  {
+    "date": "2024-03-21",
+    "predictedValue": 308.59692251491543,
+    "actualValue": 280.769,
+    "deviation": "9.91"
+  },
+  {
+    "date": "2024-03-22",
+    "predictedValue": 308.63354915905,
+    "actualValue": 274.131,
+    "deviation": "12.59"
+  },
+  {
+    "date": "2024-03-23",
+    "predictedValue": 308.66836487579343,
+    "actualValue": 280.189,
+    "deviation": "10.16"
+  },
+  {
+    "date": "2024-03-24",
+    "predictedValue": 308.701548207283,
+    "actualValue": 296.874,
+    "deviation": "3.98"
+  },
+  {
+    "date": "2024-03-25",
+    "predictedValue": 308.73309915351865,
+    "actualValue": 291.168,
+    "deviation": "6.03"
+  },
+  {
+    "date": "2024-03-26",
+    "predictedValue": 308.7630942325592,
+    "actualValue": 281.032,
+    "deviation": "9.87"
+  },
+  {
+    "date": "2024-03-27",
+    "predictedValue": 308.7916609745026,
+    "actualValue": 291.594,
+    "deviation": "5.90"
+  },
+  {
+    "date": "2024-03-28",
+    "predictedValue": 308.8188503913879,
+    "actualValue": 288.545,
+    "deviation": "7.03"
+  },
+  {
+    "date": "2024-03-29",
+    "predictedValue": 308.8446879892349,
+    "actualValue": 305.456,
+    "deviation": "1.11"
+  },
+  {
+    "date": "2024-03-30",
+    "predictedValue": 308.86930129814147,
+    "actualValue": 282.14,
+    "deviation": "9.47"
+  },
+  {
+    "date": "2024-03-31",
+    "predictedValue": 308.8927158241272,
+    "actualValue": 293.786,
+    "deviation": "5.14"
+  },
+  {
+    "date": "2024-04-01",
+    "predictedValue": 308.91498257923126,
+    "actualValue": 310.456,
+    "deviation": "0.50"
+  },
+  {
+    "date": "2024-04-02",
+    "predictedValue": 308.9361780815124,
+    "actualValue": 279.471,
+    "deviation": "10.54"
+  },
+  {
+    "date": "2024-04-03",
+    "predictedValue": 308.95635334300994,
+    "actualValue": 296.312,
+    "deviation": "4.27"
+  },
+  {
+    "date": "2024-04-04",
+    "predictedValue": 308.97555937576294,
+    "actualValue": 264.159,
+    "deviation": "16.97"
+  },
+  {
+    "date": "2024-04-05",
+    "predictedValue": 308.99382168579103,
+    "actualValue": 278.194,
+    "deviation": "11.07"
+  },
+  {
+    "date": "2024-04-06",
+    "predictedValue": 309.01119128513335,
+    "actualValue": 280.701,
+    "deviation": "10.09"
+  },
+  {
+    "date": "2024-04-07",
+    "predictedValue": 309.02774469184874,
+    "actualValue": 282.681,
+    "deviation": "9.32"
+  },
+  {
+    "date": "2024-04-08",
+    "predictedValue": 309.0434563999176,
+    "actualValue": 289.025,
+    "deviation": "6.93"
+  },
+  {
+    "date": "2024-04-09",
+    "predictedValue": 309.05842843341827,
+    "actualValue": 267.038,
+    "deviation": "15.74"
+  },
+  {
+    "date": "2024-04-10",
+    "predictedValue": 309.07266079235075,
+    "actualValue": 273.333,
+    "deviation": "13.08"
+  },
+  {
+    "date": "2024-04-11",
+    "predictedValue": 309.08625550079347,
+    "actualValue": 266.754,
+    "deviation": "15.87"
+  },
+  {
+    "date": "2024-04-12",
+    "predictedValue": 309.09916154670714,
+    "actualValue": 277.16,
+    "deviation": "11.52"
+  },
+  {
+    "date": "2024-04-13",
+    "predictedValue": 309.11142994213105,
+    "actualValue": 275.237,
+    "deviation": "12.31"
+  },
+  {
+    "date": "2024-04-14",
+    "predictedValue": 309.1231116991043,
+    "actualValue": 283.553,
+    "deviation": "9.02"
+  },
+  {
+    "date": "2024-04-15",
+    "predictedValue": 309.1342578296661,
+    "actualValue": 259.822,
+    "deviation": "18.98"
+  },
+  {
+    "date": "2024-04-16",
+    "predictedValue": 309.14484282779694,
+    "actualValue": 270.157,
+    "deviation": "14.43"
+  },
+  {
+    "date": "2024-04-17",
+    "predictedValue": 309.15489219951627,
+    "actualValue": 271.521,
+    "deviation": "13.86"
+  },
+  {
+    "date": "2024-04-18",
+    "predictedValue": 309.16450796890257,
+    "actualValue": 293.053,
+    "deviation": "5.50"
+  },
+  {
+    "date": "2024-04-19",
+    "predictedValue": 309.17361361789705,
+    "actualValue": 267.512,
+    "deviation": "15.57"
+  },
+  {
+    "date": "2024-04-20",
+    "predictedValue": 309.182311170578,
+    "actualValue": 275.053,
+    "deviation": "12.41"
+  },
+  {
+    "date": "2024-04-21",
+    "predictedValue": 309.19054961490633,
+    "actualValue": 291.427,
+    "deviation": "6.10"
+  },
+  {
+    "date": "2024-04-22",
+    "predictedValue": 309.19843097496033,
+    "actualValue": 280.629,
+    "deviation": "10.18"
+  },
+  {
+    "date": "2024-04-23",
+    "predictedValue": 309.20590423870084,
+    "actualValue": 269.939,
+    "deviation": "14.55"
+  },
+  {
+    "date": "2024-04-24",
+    "predictedValue": 309.2130204181671,
+    "actualValue": 277.31,
+    "deviation": "11.50"
+  },
+  {
+    "date": "2024-04-25",
+    "predictedValue": 309.21980501937867,
+    "actualValue": 289.771,
+    "deviation": "6.71"
+  },
+  {
+    "date": "2024-04-26",
+    "predictedValue": 309.22620703029634,
+    "actualValue": 266.556,
+    "deviation": "16.01"
+  },
+  {
+    "date": "2024-04-27",
+    "predictedValue": 309.23237948703763,
+    "actualValue": 272.152,
+    "deviation": "13.62"
+  },
+  {
+    "date": "2024-04-28",
+    "predictedValue": 309.2381948595047,
+    "actualValue": 297.24,
+    "deviation": "4.04"
+  },
+  {
+    "date": "2024-04-29",
+    "predictedValue": 309.24375517177583,
+    "actualValue": 262.673,
+    "deviation": "17.73"
+  },
+  {
+    "date": "2024-04-30",
+    "predictedValue": 309.2490349178314,
+    "actualValue": 282.403,
+    "deviation": "9.51"
+  },
+  {
+    "date": "2024-05-01",
+    "predictedValue": 309.2540596036911,
+    "actualValue": 325.053,
+    "deviation": "4.86"
+  },
+  {
+    "date": "2024-05-02",
+    "predictedValue": 309.258880241394,
+    "actualValue": 323.848,
+    "deviation": "4.50"
+  },
+  {
+    "date": "2024-05-03",
+    "predictedValue": 309.26342031288146,
+    "actualValue": 319.775,
+    "deviation": "3.29"
+  },
+  {
+    "date": "2024-05-04",
+    "predictedValue": 309.26775633621213,
+    "actualValue": 325.579,
+    "deviation": "5.01"
+  },
+  {
+    "date": "2024-05-05",
+    "predictedValue": 309.2718883113861,
+    "actualValue": 337.398,
+    "deviation": "8.34"
+  },
+  {
+    "date": "2024-05-06",
+    "predictedValue": 309.2757907323837,
+    "actualValue": 333.096,
+    "deviation": "7.15"
+  },
+  {
+    "date": "2024-05-07",
+    "predictedValue": 309.27954011726376,
+    "actualValue": 308.031,
+    "deviation": "0.41"
+  },
+  {
+    "date": "2024-05-08",
+    "predictedValue": 309.2831109600067,
+    "actualValue": 302.231,
+    "deviation": "2.33"
+  },
+  {
+    "date": "2024-05-09",
+    "predictedValue": 309.2864777545929,
+    "actualValue": 324.677,
+    "deviation": "4.74"
+  },
+  {
+    "date": "2024-05-10",
+    "predictedValue": 309.28969151306154,
+    "actualValue": 320.688,
+    "deviation": "3.55"
+  },
+  {
+    "date": "2024-05-11",
+    "predictedValue": 309.2927522354126,
+    "actualValue": 313.129,
+    "deviation": "1.23"
+  },
+  {
+    "date": "2024-05-12",
+    "predictedValue": 309.2957109336853,
+    "actualValue": 334.019,
+    "deviation": "7.40"
+  },
+  {
+    "date": "2024-05-13",
+    "predictedValue": 309.29846558380126,
+    "actualValue": 318.889,
+    "deviation": "3.01"
+  },
+  {
+    "date": "2024-05-14",
+    "predictedValue": 309.3010927038193,
+    "actualValue": 315.525,
+    "deviation": "1.97"
+  },
+  {
+    "date": "2024-05-15",
+    "predictedValue": 309.3036177997589,
+    "actualValue": 324.389,
+    "deviation": "4.65"
+  },
+  {
+    "date": "2024-05-16",
+    "predictedValue": 309.30601536560056,
+    "actualValue": 322.254,
+    "deviation": "4.02"
+  },
+  {
+    "date": "2024-05-17",
+    "predictedValue": 309.3083109073639,
+    "actualValue": 317.698,
+    "deviation": "2.64"
+  },
+  {
+    "date": "2024-05-18",
+    "predictedValue": 309.3104534130096,
+    "actualValue": 317.937,
+    "deviation": "2.71"
+  },
+  {
+    "date": "2024-05-19",
+    "predictedValue": 309.3125194005966,
+    "actualValue": 319.183,
+    "deviation": "3.09"
+  },
+  {
+    "date": "2024-05-20",
+    "predictedValue": 309.31445785808563,
+    "actualValue": 336.342,
+    "deviation": "8.04"
+  },
+  {
+    "date": "2024-05-21",
+    "predictedValue": 309.31634530353546,
+    "actualValue": 302.269,
+    "deviation": "2.33"
+  },
+  {
+    "date": "2024-05-22",
+    "predictedValue": 309.3181052188873,
+    "actualValue": 309.577,
+    "deviation": "0.08"
+  },
+  {
+    "date": "2024-05-23",
+    "predictedValue": 309.3198141222,
+    "actualValue": 304.743,
+    "deviation": "1.50"
+  },
+  {
+    "date": "2024-05-24",
+    "predictedValue": 309.3214210014343,
+    "actualValue": 311.722,
+    "deviation": "0.77"
+  },
+  {
+    "date": "2024-05-25",
+    "predictedValue": 309.32295136260984,
+    "actualValue": 301.236,
+    "deviation": "2.68"
+  },
+  {
+    "date": "2024-05-26",
+    "predictedValue": 309.32437969970704,
+    "actualValue": 326.155,
+    "deviation": "5.16"
+  },
+  {
+    "date": "2024-05-27",
+    "predictedValue": 309.3257825307846,
+    "actualValue": 313.767,
+    "deviation": "1.42"
+  },
+  {
+    "date": "2024-05-28",
+    "predictedValue": 309.3270833377838,
+    "actualValue": 302.773,
+    "deviation": "2.16"
+  },
+  {
+    "date": "2024-05-29",
+    "predictedValue": 309.328384144783,
+    "actualValue": 306.547,
+    "deviation": "0.91"
+  },
+  {
+    "date": "2024-05-30",
+    "predictedValue": 309.3295574216843,
+    "actualValue": 311.514,
+    "deviation": "0.70"
+  },
+  {
+    "date": "2024-05-31",
+    "predictedValue": 309.3306796865463,
+    "actualValue": 325.9,
+    "deviation": "5.08"
+  },
+  {
+    "date": "2024-06-01",
+    "predictedValue": 309.3317764453888,
+    "actualValue": 331.124,
+    "deviation": "6.58"
+  },
+  {
+    "date": "2024-06-02",
+    "predictedValue": 309.33282219219205,
+    "actualValue": 348.17,
+    "deviation": "11.15"
+  },
+  {
+    "date": "2024-06-03",
+    "predictedValue": 309.33379142093656,
+    "actualValue": 310.295,
+    "deviation": "0.31"
+  },
+  {
+    "date": "2024-06-04",
+    "predictedValue": 309.3347351436615,
+    "actualValue": 321.712,
+    "deviation": "3.85"
+  },
+  {
+    "date": "2024-06-05",
+    "predictedValue": 309.33562785434725,
+    "actualValue": 318.562,
+    "deviation": "2.90"
+  },
+  {
+    "date": "2024-06-06",
+    "predictedValue": 309.3364695529938,
+    "actualValue": 300.208,
+    "deviation": "3.04"
+  },
+  {
+    "date": "2024-06-07",
+    "predictedValue": 309.3372347335815,
+    "actualValue": 311.892,
+    "deviation": "0.82"
+  },
+  {
+    "date": "2024-06-08",
+    "predictedValue": 309.3380254201889,
+    "actualValue": 316.579,
+    "deviation": "2.29"
+  },
+  {
+    "date": "2024-06-09",
+    "predictedValue": 309.3387650947571,
+    "actualValue": 346.742,
+    "deviation": "10.79"
+  },
+  {
+    "date": "2024-06-10",
+    "predictedValue": 309.3394537572861,
+    "actualValue": 317.975,
+    "deviation": "2.72"
+  },
+  {
+    "date": "2024-06-11",
+    "predictedValue": 309.3400914077759,
+    "actualValue": 319.125,
+    "deviation": "3.07"
+  },
+  {
+    "date": "2024-06-12",
+    "predictedValue": 309.3407290582657,
+    "actualValue": 308.838,
+    "deviation": "0.16"
+  },
+  {
+    "date": "2024-06-13",
+    "predictedValue": 309.3413412027359,
+    "actualValue": 313.524,
+    "deviation": "1.33"
+  },
+  {
+    "date": "2024-06-14",
+    "predictedValue": 309.34190233516694,
+    "actualValue": 324.446,
+    "deviation": "4.66"
+  },
+  {
+    "date": "2024-06-15",
+    "predictedValue": 309.34243796157836,
+    "actualValue": 312.038,
+    "deviation": "0.86"
+  },
+  {
+    "date": "2024-06-16",
+    "predictedValue": 309.34294808197023,
+    "actualValue": 322.301,
+    "deviation": "4.02"
+  },
+  {
+    "date": "2024-06-17",
+    "predictedValue": 309.34345820236206,
+    "actualValue": 308.014,
+    "deviation": "0.43"
+  },
+  {
+    "date": "2024-06-18",
+    "predictedValue": 309.34391731071474,
+    "actualValue": 319.811,
+    "deviation": "3.27"
+  },
+  {
+    "date": "2024-06-19",
+    "predictedValue": 309.3443764190674,
+    "actualValue": 309.73,
+    "deviation": "0.12"
+  },
+  {
+    "date": "2024-06-20",
+    "predictedValue": 309.34478451538087,
+    "actualValue": 314.553,
+    "deviation": "1.66"
+  },
+  {
+    "date": "2024-06-21",
+    "predictedValue": 309.34516710567476,
+    "actualValue": 324.62,
+    "deviation": "4.71"
+  },
+  {
+    "date": "2024-06-22",
+    "predictedValue": 309.3455496959686,
+    "actualValue": 328.174,
+    "deviation": "5.74"
+  },
+  {
+    "date": "2024-06-23",
+    "predictedValue": 309.3459322862625,
+    "actualValue": 337.912,
+    "deviation": "8.45"
+  },
+  {
+    "date": "2024-06-24",
+    "predictedValue": 309.3462638645172,
+    "actualValue": 326.789,
+    "deviation": "5.34"
+  },
+  {
+    "date": "2024-06-25",
+    "predictedValue": 309.3465954427719,
+    "actualValue": 356.576,
+    "deviation": "13.25"
+  },
+  {
+    "date": "2024-06-26",
+    "predictedValue": 309.3469270210266,
+    "actualValue": 353.884,
+    "deviation": "12.59"
+  },
+  {
+    "date": "2024-06-27",
+    "predictedValue": 309.3472075872421,
+    "actualValue": 346.885,
+    "deviation": "10.82"
+  },
+  {
+    "date": "2024-06-28",
+    "predictedValue": 309.3475136594772,
+    "actualValue": 344.012,
+    "deviation": "10.08"
+  },
+  {
+    "date": "2024-06-29",
+    "predictedValue": 309.3477942256927,
+    "actualValue": 339.269,
+    "deviation": "8.82"
+  },
+  {
+    "date": "2024-06-30",
+    "predictedValue": 309.3480237798691,
+    "actualValue": 372.636,
+    "deviation": "16.98"
+  },
+  {
+    "date": "2024-07-01",
+    "predictedValue": 309.348278840065,
+    "actualValue": 324.635,
+    "deviation": "4.71"
+  },
+  {
+    "date": "2024-07-02",
+    "predictedValue": 309.3485339002609,
+    "actualValue": 323.058,
+    "deviation": "4.24"
+  },
+  {
+    "date": "2024-07-03",
+    "predictedValue": 309.34873794841764,
+    "actualValue": 310.007,
+    "deviation": "0.21"
+  },
+  {
+    "date": "2024-07-04",
+    "predictedValue": 309.348967502594,
+    "actualValue": 304.452,
+    "deviation": "1.61"
+  },
+  {
+    "date": "2024-07-05",
+    "predictedValue": 309.3491460447311,
+    "actualValue": 317.182,
+    "deviation": "2.47"
+  },
+  {
+    "date": "2024-07-06",
+    "predictedValue": 309.34935009288785,
+    "actualValue": 319.128,
+    "deviation": "3.06"
+  },
+  {
+    "date": "2024-07-07",
+    "predictedValue": 309.349528635025,
+    "actualValue": 333.185,
+    "deviation": "7.15"
+  },
+  {
+    "date": "2024-07-08",
+    "predictedValue": 309.34970717716214,
+    "actualValue": 310.232,
+    "deviation": "0.28"
+  },
+  {
+    "date": "2024-07-09",
+    "predictedValue": 309.3498602132797,
+    "actualValue": 323.695,
+    "deviation": "4.43"
+  },
+  {
+    "date": "2024-07-10",
+    "predictedValue": 309.35003875541685,
+    "actualValue": 333.712,
+    "deviation": "7.30"
+  },
+  {
+    "date": "2024-07-11",
+    "predictedValue": 309.3501917915344,
+    "actualValue": 338.5,
+    "deviation": "8.61"
+  },
+  {
+    "date": "2024-07-12",
+    "predictedValue": 309.35031932163236,
+    "actualValue": 324.888,
+    "deviation": "4.78"
+  },
+  {
+    "date": "2024-07-13",
+    "predictedValue": 309.35047235774994,
+    "actualValue": 334.172,
+    "deviation": "7.43"
+  },
+  {
+    "date": "2024-07-14",
+    "predictedValue": 309.3505998878479,
+    "actualValue": 341.219,
+    "deviation": "9.34"
+  },
+  {
+    "date": "2024-07-15",
+    "predictedValue": 309.35070191192625,
+    "actualValue": 326.734,
+    "deviation": "5.32"
+  },
+  {
+    "date": "2024-07-16",
+    "predictedValue": 309.35082944202424,
+    "actualValue": 343.069,
+    "deviation": "9.83"
+  },
+  {
+    "date": "2024-07-17",
+    "predictedValue": 309.3509314661026,
+    "actualValue": 337.946,
+    "deviation": "8.46"
+  },
+  {
+    "date": "2024-07-18",
+    "predictedValue": 309.35103349018095,
+    "actualValue": 326.207,
+    "deviation": "5.17"
+  },
+  {
+    "date": "2024-07-19",
+    "predictedValue": 309.35111000823974,
+    "actualValue": 332.186,
+    "deviation": "6.87"
+  },
+  {
+    "date": "2024-07-20",
+    "predictedValue": 309.35121203231813,
+    "actualValue": 332.353,
+    "deviation": "6.92"
+  },
+  {
+    "date": "2024-07-21",
+    "predictedValue": 309.35133956241606,
+    "actualValue": 354.021,
+    "deviation": "12.62"
+  },
+  {
+    "date": "2024-07-22",
+    "predictedValue": 309.35141608047485,
+    "actualValue": 334.242,
+    "deviation": "7.45"
+  },
+  {
+    "date": "2024-07-23",
+    "predictedValue": 309.35149259853364,
+    "actualValue": 340.632,
+    "deviation": "9.18"
+  },
+  {
+    "date": "2024-07-24",
+    "predictedValue": 309.35156911659243,
+    "actualValue": 324.759,
+    "deviation": "4.74"
+  },
+  {
+    "date": "2024-07-25",
+    "predictedValue": 309.35164563465116,
+    "actualValue": 323.176,
+    "deviation": "4.28"
+  },
+  {
+    "date": "2024-07-26",
+    "predictedValue": 309.35172215270995,
+    "actualValue": 323.704,
+    "deviation": "4.43"
+  },
+  {
+    "date": "2024-07-27",
+    "predictedValue": 309.35177316474915,
+    "actualValue": 332.737,
+    "deviation": "7.03"
+  },
+  {
+    "date": "2024-07-28",
+    "predictedValue": 309.35184968280794,
+    "actualValue": 359.479,
+    "deviation": "13.94"
+  },
+  {
+    "date": "2024-07-29",
+    "predictedValue": 309.3519006948471,
+    "actualValue": 331.764,
+    "deviation": "6.76"
+  },
+  {
+    "date": "2024-07-30",
+    "predictedValue": 309.35197721290587,
+    "actualValue": 339.451,
+    "deviation": "8.87"
+  },
+  {
+    "date": "2024-07-31",
+    "predictedValue": 309.35202822494506,
+    "actualValue": 335.772,
+    "deviation": "7.87"
+  },
+  {
+    "date": "2024-08-01",
+    "predictedValue": 309.35207923698425,
+    "actualValue": 339.188,
+    "deviation": "8.80"
+  },
+  {
+    "date": "2024-08-02",
+    "predictedValue": 309.35213024902345,
+    "actualValue": 336.266,
+    "deviation": "8.00"
+  },
+  {
+    "date": "2024-08-03",
+    "predictedValue": 309.35218126106264,
+    "actualValue": 331.835,
+    "deviation": "6.78"
+  },
+  {
+    "date": "2024-08-04",
+    "predictedValue": 309.3522322731018,
+    "actualValue": 341.567,
+    "deviation": "9.43"
+  },
+  {
+    "date": "2024-08-05",
+    "predictedValue": 309.35228328514097,
+    "actualValue": 331.26,
+    "deviation": "6.61"
+  },
+  {
+    "date": "2024-08-06",
+    "predictedValue": 309.35230879116057,
+    "actualValue": 324.8,
+    "deviation": "4.76"
+  },
+  {
+    "date": "2024-08-07",
+    "predictedValue": 309.35235980319976,
+    "actualValue": 330.197,
+    "deviation": "6.31"
+  },
+  {
+    "date": "2024-08-08",
+    "predictedValue": 309.35238530921936,
+    "actualValue": 336.542,
+    "deviation": "8.08"
+  },
+  {
+    "date": "2024-08-09",
+    "predictedValue": 309.35243632125855,
+    "actualValue": 335.081,
+    "deviation": "7.68"
+  },
+  {
+    "date": "2024-08-10",
+    "predictedValue": 309.35246182727815,
+    "actualValue": 319.378,
+    "deviation": "3.14"
+  },
+  {
+    "date": "2024-08-11",
+    "predictedValue": 309.35248733329774,
+    "actualValue": 349.002,
+    "deviation": "11.36"
+  },
+  {
+    "date": "2024-08-12",
+    "predictedValue": 309.35251283931734,
+    "actualValue": 330.939,
+    "deviation": "6.52"
+  },
+  {
+    "date": "2024-08-13",
+    "predictedValue": 309.3525638513565,
+    "actualValue": 337.783,
+    "deviation": "8.42"
+  },
+  {
+    "date": "2024-08-14",
+    "predictedValue": 309.3525893573761,
+    "actualValue": 345.04,
+    "deviation": "10.34"
+  },
+  {
+    "date": "2024-08-15",
+    "predictedValue": 309.3526148633957,
+    "actualValue": 361.067,
+    "deviation": "14.32"
+  },
+  {
+    "date": "2024-08-16",
+    "predictedValue": 309.35264036941527,
+    "actualValue": 345.44,
+    "deviation": "10.45"
+  },
+  {
+    "date": "2024-08-17",
+    "predictedValue": 309.35266587543487,
+    "actualValue": 333.809,
+    "deviation": "7.33"
+  },
+  {
+    "date": "2024-08-18",
+    "predictedValue": 309.35266587543487,
+    "actualValue": 341.175,
+    "deviation": "9.33"
+  },
+  {
+    "date": "2024-08-19",
+    "predictedValue": 309.35271688747406,
+    "actualValue": 331.503,
+    "deviation": "6.68"
+  },
+  {
+    "date": "2024-08-20",
+    "predictedValue": 309.35271688747406,
+    "actualValue": 338.002,
+    "deviation": "8.48"
+  },
+  {
+    "date": "2024-08-21",
+    "predictedValue": 309.35271688747406,
+    "actualValue": 342.872,
+    "deviation": "9.78"
+  },
+  {
+    "date": "2024-08-22",
+    "predictedValue": 309.35274239349366,
+    "actualValue": 324.669,
+    "deviation": "4.72"
+  },
+  {
+    "date": "2024-08-23",
+    "predictedValue": 309.35276789951325,
+    "actualValue": 347.872,
+    "deviation": "11.07"
+  },
+  {
+    "date": "2024-08-24",
+    "predictedValue": 309.35279340553285,
+    "actualValue": 339.431,
+    "deviation": "8.86"
+  },
+  {
+    "date": "2024-08-25",
+    "predictedValue": 309.35281891155245,
+    "actualValue": 343.672,
+    "deviation": "9.99"
+  },
+  {
+    "date": "2024-08-26",
+    "predictedValue": 309.35284441757204,
+    "actualValue": 335.508,
+    "deviation": "7.80"
+  },
+  {
+    "date": "2024-08-27",
+    "predictedValue": 309.35284441757204,
+    "actualValue": 335.049,
+    "deviation": "7.67"
+  },
+  {
+    "date": "2024-08-28",
+    "predictedValue": 309.3528699235916,
+    "actualValue": 353.17,
+    "deviation": "12.41"
+  },
+  {
+    "date": "2024-08-29",
+    "predictedValue": 309.3528699235916,
+    "actualValue": 365.114,
+    "deviation": "15.27"
+  },
+  {
+    "date": "2024-08-30",
+    "predictedValue": 309.3528954296112,
+    "actualValue": 339.668,
+    "deviation": "8.92"
+  },
+  {
+    "date": "2024-08-31",
+    "predictedValue": 309.3528954296112,
+    "actualValue": 335.595,
+    "deviation": "7.82"
+  },
+  {
+    "date": "2024-09-01",
+    "predictedValue": 309.3529209356308,
+    "actualValue": 347.081,
+    "deviation": "10.87"
+  },
+  {
+    "date": "2024-09-02",
+    "predictedValue": 309.3529209356308,
+    "actualValue": 341.621,
+    "deviation": "9.45"
+  },
+  {
+    "date": "2024-09-03",
+    "predictedValue": 309.3529209356308,
+    "actualValue": 370.314,
+    "deviation": "16.46"
+  },
+  {
+    "date": "2024-09-04",
+    "predictedValue": 309.3529464416504,
+    "actualValue": 355.158,
+    "deviation": "12.90"
+  },
+  {
+    "date": "2024-09-05",
+    "predictedValue": 309.3529464416504,
+    "actualValue": 351.637,
+    "deviation": "12.02"
+  },
+  {
+    "date": "2024-09-06",
+    "predictedValue": 309.3529464416504,
+    "actualValue": 334.537,
+    "deviation": "7.53"
+  },
+  {
+    "date": "2024-09-07",
+    "predictedValue": 309.3529464416504,
+    "actualValue": 309.742,
+    "deviation": "0.13"
+  },
+  {
+    "date": "2024-09-08",
+    "predictedValue": 309.35297194766997,
+    "actualValue": 367.479,
+    "deviation": "15.82"
+  },
+  {
+    "date": "2024-09-09",
+    "predictedValue": 309.35297194766997,
+    "actualValue": 344.627,
+    "deviation": "10.24"
+  },
+  {
+    "date": "2024-09-10",
+    "predictedValue": 309.35297194766997,
+    "actualValue": 320.149,
+    "deviation": "3.37"
+  },
+  {
+    "date": "2024-09-11",
+    "predictedValue": 309.35299745368957,
+    "actualValue": 330.8,
+    "deviation": "6.48"
+  },
+  {
+    "date": "2024-09-12",
+    "predictedValue": 309.35299745368957,
+    "actualValue": 313.407,
+    "deviation": "1.29"
+  },
+  {
+    "date": "2024-09-13",
+    "predictedValue": 309.35299745368957,
+    "actualValue": 310.416,
+    "deviation": "0.34"
+  },
+  {
+    "date": "2024-09-14",
+    "predictedValue": 309.35299745368957,
+    "actualValue": 309.398,
+    "deviation": "0.01"
+  },
+  {
+    "date": "2024-09-15",
+    "predictedValue": 309.35299745368957,
+    "actualValue": 330.611,
+    "deviation": "6.43"
+  },
+  {
+    "date": "2024-09-16",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 318.456,
+    "deviation": "2.86"
+  },
+  {
+    "date": "2024-09-17",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 325.743,
+    "deviation": "5.03"
+  },
+  {
+    "date": "2024-09-18",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 315.783,
+    "deviation": "2.04"
+  },
+  {
+    "date": "2024-09-19",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 326.128,
+    "deviation": "5.14"
+  },
+  {
+    "date": "2024-09-20",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 332.431,
+    "deviation": "6.94"
+  },
+  {
+    "date": "2024-09-21",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 319.654,
+    "deviation": "3.22"
+  },
+  {
+    "date": "2024-09-22",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 350.27,
+    "deviation": "11.68"
+  },
+  {
+    "date": "2024-09-23",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 332.681,
+    "deviation": "7.01"
+  },
+  {
+    "date": "2024-09-24",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 318.065,
+    "deviation": "2.74"
+  },
+  {
+    "date": "2024-09-25",
+    "predictedValue": 309.35302295970916,
+    "actualValue": 296.674,
+    "deviation": "4.27"
+  },
+  {
+    "date": "2024-09-26",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 321.72,
+    "deviation": "3.84"
+  },
+  {
+    "date": "2024-09-27",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 310.846,
+    "deviation": "0.48"
+  },
+  {
+    "date": "2024-09-28",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 310.187,
+    "deviation": "0.27"
+  },
+  {
+    "date": "2024-09-29",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 325.433,
+    "deviation": "4.94"
+  },
+  {
+    "date": "2024-09-30",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 302.329,
+    "deviation": "2.32"
+  },
+  {
+    "date": "2024-10-01",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 322.766,
+    "deviation": "4.16"
+  },
+  {
+    "date": "2024-10-02",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 300.934,
+    "deviation": "2.80"
+  },
+  {
+    "date": "2024-10-03",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 349.336,
+    "deviation": "11.45"
+  },
+  {
+    "date": "2024-10-04",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 318.172,
+    "deviation": "2.77"
+  },
+  {
+    "date": "2024-10-05",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 304.689,
+    "deviation": "1.53"
+  },
+  {
+    "date": "2024-10-06",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 314.637,
+    "deviation": "1.68"
+  },
+  {
+    "date": "2024-10-07",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 309.528,
+    "deviation": "0.06"
+  },
+  {
+    "date": "2024-10-08",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 300.33,
+    "deviation": "3.00"
+  },
+  {
+    "date": "2024-10-09",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 285.008,
+    "deviation": "8.54"
+  },
+  {
+    "date": "2024-10-10",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 301.317,
+    "deviation": "2.67"
+  },
+  {
+    "date": "2024-10-11",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 302.588,
+    "deviation": "2.24"
+  },
+  {
+    "date": "2024-10-12",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 302.034,
+    "deviation": "2.42"
+  },
+  {
+    "date": "2024-10-13",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 314.99,
+    "deviation": "1.79"
+  },
+  {
+    "date": "2024-10-14",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 321.951,
+    "deviation": "3.91"
+  },
+  {
+    "date": "2024-10-15",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 319.66,
+    "deviation": "3.22"
+  },
+  {
+    "date": "2024-10-16",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 299.481,
+    "deviation": "3.30"
+  },
+  {
+    "date": "2024-10-17",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 308.623,
+    "deviation": "0.24"
+  },
+  {
+    "date": "2024-10-18",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 304.203,
+    "deviation": "1.69"
+  },
+  {
+    "date": "2024-10-19",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 303.283,
+    "deviation": "2.00"
+  },
+  {
+    "date": "2024-10-20",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 315.575,
+    "deviation": "1.97"
+  },
+  {
+    "date": "2024-10-21",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 287.796,
+    "deviation": "7.49"
+  },
+  {
+    "date": "2024-10-22",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 291.135,
+    "deviation": "6.26"
+  },
+  {
+    "date": "2024-10-23",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 292.405,
+    "deviation": "5.80"
+  },
+  {
+    "date": "2024-10-24",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 295.344,
+    "deviation": "4.74"
+  },
+  {
+    "date": "2024-10-25",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 293.824,
+    "deviation": "5.29"
+  },
+  {
+    "date": "2024-10-26",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 295.482,
+    "deviation": "4.69"
+  },
+  {
+    "date": "2024-10-27",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 313.625,
+    "deviation": "1.36"
+  },
+  {
+    "date": "2024-10-28",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 301.666,
+    "deviation": "2.55"
+  },
+  {
+    "date": "2024-10-29",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 319.027,
+    "deviation": "3.03"
+  },
+  {
+    "date": "2024-10-30",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 332.795,
+    "deviation": "7.04"
+  },
+  {
+    "date": "2024-10-31",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 344.924,
+    "deviation": "10.31"
+  },
+  {
+    "date": "2024-11-01",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 316.611,
+    "deviation": "2.29"
+  },
+  {
+    "date": "2024-11-02",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 300.896,
+    "deviation": "2.81"
+  },
+  {
+    "date": "2024-11-03",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 322.707,
+    "deviation": "4.14"
+  },
+  {
+    "date": "2024-11-04",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 305.27,
+    "deviation": "1.34"
+  },
+  {
+    "date": "2024-11-05",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 309.453,
+    "deviation": "0.03"
+  },
+  {
+    "date": "2024-11-06",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 308.523,
+    "deviation": "0.27"
+  },
+  {
+    "date": "2024-11-07",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 309.795,
+    "deviation": "0.14"
+  },
+  {
+    "date": "2024-11-08",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 297.593,
+    "deviation": "3.95"
+  },
+  {
+    "date": "2024-11-09",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 313.774,
+    "deviation": "1.41"
+  },
+  {
+    "date": "2024-11-10",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 330.521,
+    "deviation": "6.40"
+  },
+  {
+    "date": "2024-11-11",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 300.505,
+    "deviation": "2.94"
+  },
+  {
+    "date": "2024-11-12",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 316.607,
+    "deviation": "2.29"
+  },
+  {
+    "date": "2024-11-13",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 304.009,
+    "deviation": "1.76"
+  },
+  {
+    "date": "2024-11-14",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 302.403,
+    "deviation": "2.30"
+  },
+  {
+    "date": "2024-11-15",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 313.873,
+    "deviation": "1.44"
+  },
+  {
+    "date": "2024-11-16",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 310.252,
+    "deviation": "0.29"
+  },
+  {
+    "date": "2024-11-17",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 327.226,
+    "deviation": "5.46"
+  },
+  {
+    "date": "2024-11-18",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 299.92,
+    "deviation": "3.15"
+  },
+  {
+    "date": "2024-11-19",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 299.797,
+    "deviation": "3.19"
+  },
+  {
+    "date": "2024-11-20",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 308.687,
+    "deviation": "0.22"
+  },
+  {
+    "date": "2024-11-21",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 287.198,
+    "deviation": "7.71"
+  },
+  {
+    "date": "2024-11-22",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 310.98,
+    "deviation": "0.52"
+  },
+  {
+    "date": "2024-11-23",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 305.632,
+    "deviation": "1.22"
+  },
+  {
+    "date": "2024-11-24",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 321.667,
+    "deviation": "3.83"
+  },
+  {
+    "date": "2024-11-25",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 290.144,
+    "deviation": "6.62"
+  },
+  {
+    "date": "2024-11-26",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 268.678,
+    "deviation": "15.14"
+  },
+  {
+    "date": "2024-11-27",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 303.557,
+    "deviation": "1.91"
+  },
+  {
+    "date": "2024-11-28",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 296.752,
+    "deviation": "4.25"
+  },
+  {
+    "date": "2024-11-29",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 313.938,
+    "deviation": "1.46"
+  },
+  {
+    "date": "2024-11-30",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 306.895,
+    "deviation": "0.80"
+  },
+  {
+    "date": "2024-12-01",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 318.85,
+    "deviation": "2.98"
+  },
+  {
+    "date": "2024-12-02",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 301.965,
+    "deviation": "2.45"
+  },
+  {
+    "date": "2024-12-03",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 301.758,
+    "deviation": "2.52"
+  },
+  {
+    "date": "2024-12-04",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 307.472,
+    "deviation": "0.61"
+  },
+  {
+    "date": "2024-12-05",
+    "predictedValue": 309.35304846572876,
+    "actualValue": 1.012,
+    "deviation": "30468.48"
+  }
+]

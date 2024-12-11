@@ -1,0 +1,2172 @@
+[
+  {
+    "date": "2022-01-01",
+    "predictedValue": 116.07050000000001,
+    "actualValue": 130.459,
+    "deviation": "11.03"
+  },
+  {
+    "date": "2022-01-02",
+    "predictedValue": 316.38300000000004,
+    "actualValue": 333.839,
+    "deviation": "5.23"
+  },
+  {
+    "date": "2022-01-03",
+    "predictedValue": 313.70799999999997,
+    "actualValue": 323.878,
+    "deviation": "3.14"
+  },
+  {
+    "date": "2022-01-04",
+    "predictedValue": 309.38649999999996,
+    "actualValue": 328.813,
+    "deviation": "5.91"
+  },
+  {
+    "date": "2022-01-05",
+    "predictedValue": 318.3315,
+    "actualValue": 341.222,
+    "deviation": "6.71"
+  },
+  {
+    "date": "2022-01-06",
+    "predictedValue": 316.1875,
+    "actualValue": 343.199,
+    "deviation": "7.87"
+  },
+  {
+    "date": "2022-01-07",
+    "predictedValue": 328.89549999999997,
+    "actualValue": 349.513,
+    "deviation": "5.90"
+  },
+  {
+    "date": "2022-01-08",
+    "predictedValue": 336.37300000000005,
+    "actualValue": 356.985,
+    "deviation": "5.77"
+  },
+  {
+    "date": "2022-01-09",
+    "predictedValue": 328.1065,
+    "actualValue": 344.245,
+    "deviation": "4.69"
+  },
+  {
+    "date": "2022-01-10",
+    "predictedValue": 320.8935,
+    "actualValue": 356.506,
+    "deviation": "9.99"
+  },
+  {
+    "date": "2022-01-11",
+    "predictedValue": 325.307,
+    "actualValue": 351.972,
+    "deviation": "7.58"
+  },
+  {
+    "date": "2022-01-12",
+    "predictedValue": 324.4035,
+    "actualValue": 363.268,
+    "deviation": "10.70"
+  },
+  {
+    "date": "2022-01-13",
+    "predictedValue": 334.75800000000004,
+    "actualValue": 352.9,
+    "deviation": "5.14"
+  },
+  {
+    "date": "2022-01-14",
+    "predictedValue": 328.2555,
+    "actualValue": 364.695,
+    "deviation": "9.99"
+  },
+  {
+    "date": "2022-01-15",
+    "predictedValue": 328.831,
+    "actualValue": 347.612,
+    "deviation": "5.40"
+  },
+  {
+    "date": "2022-01-16",
+    "predictedValue": 328.8425,
+    "actualValue": 314.971,
+    "deviation": "4.40"
+  },
+  {
+    "date": "2022-01-17",
+    "predictedValue": 321.842,
+    "actualValue": 340.217,
+    "deviation": "5.40"
+  },
+  {
+    "date": "2022-01-18",
+    "predictedValue": 324.0245,
+    "actualValue": 339.139,
+    "deviation": "4.46"
+  },
+  {
+    "date": "2022-01-19",
+    "predictedValue": 328.3235,
+    "actualValue": 333.18,
+    "deviation": "1.46"
+  },
+  {
+    "date": "2022-01-20",
+    "predictedValue": 326.73400000000004,
+    "actualValue": 336.399,
+    "deviation": "2.87"
+  },
+  {
+    "date": "2022-01-21",
+    "predictedValue": 332.2765,
+    "actualValue": 344.863,
+    "deviation": "3.65"
+  },
+  {
+    "date": "2022-01-22",
+    "predictedValue": 329.198,
+    "actualValue": 315.046,
+    "deviation": "4.49"
+  },
+  {
+    "date": "2022-01-23",
+    "predictedValue": 323.4145,
+    "actualValue": 344.648,
+    "deviation": "6.16"
+  },
+  {
+    "date": "2022-01-24",
+    "predictedValue": 320.26,
+    "actualValue": 326.771,
+    "deviation": "1.99"
+  },
+  {
+    "date": "2022-01-25",
+    "predictedValue": 322.729,
+    "actualValue": 321.989,
+    "deviation": "0.23"
+  },
+  {
+    "date": "2022-01-26",
+    "predictedValue": 322.38199999999995,
+    "actualValue": 333.812,
+    "deviation": "3.42"
+  },
+  {
+    "date": "2022-01-27",
+    "predictedValue": 329.231,
+    "actualValue": 341.918,
+    "deviation": "3.71"
+  },
+  {
+    "date": "2022-01-28",
+    "predictedValue": 334.73900000000003,
+    "actualValue": 340.247,
+    "deviation": "1.62"
+  },
+  {
+    "date": "2022-01-29",
+    "predictedValue": 324.3665,
+    "actualValue": 310.516,
+    "deviation": "4.46"
+  },
+  {
+    "date": "2022-01-30",
+    "predictedValue": 324.038,
+    "actualValue": 325.433,
+    "deviation": "0.43"
+  },
+  {
+    "date": "2022-01-31",
+    "predictedValue": 323.802,
+    "actualValue": 328.704,
+    "deviation": "1.49"
+  },
+  {
+    "date": "2022-02-01",
+    "predictedValue": 320.13149999999996,
+    "actualValue": 337.813,
+    "deviation": "5.23"
+  },
+  {
+    "date": "2022-02-02",
+    "predictedValue": 323.51,
+    "actualValue": 340.211,
+    "deviation": "4.91"
+  },
+  {
+    "date": "2022-02-03",
+    "predictedValue": 327.27,
+    "actualValue": 330.751,
+    "deviation": "1.05"
+  },
+  {
+    "date": "2022-02-04",
+    "predictedValue": 330.0965,
+    "actualValue": 348.453,
+    "deviation": "5.27"
+  },
+  {
+    "date": "2022-02-05",
+    "predictedValue": 329.318,
+    "actualValue": 318.793,
+    "deviation": "3.30"
+  },
+  {
+    "date": "2022-02-06",
+    "predictedValue": 331.3905,
+    "actualValue": 322.56,
+    "deviation": "2.74"
+  },
+  {
+    "date": "2022-02-07",
+    "predictedValue": 328.10900000000004,
+    "actualValue": 337.755,
+    "deviation": "2.86"
+  },
+  {
+    "date": "2022-02-08",
+    "predictedValue": 328.23400000000004,
+    "actualValue": 336.924,
+    "deviation": "2.58"
+  },
+  {
+    "date": "2022-02-09",
+    "predictedValue": 322.898,
+    "actualValue": 317.391,
+    "deviation": "1.74"
+  },
+  {
+    "date": "2022-02-10",
+    "predictedValue": 331.7825,
+    "actualValue": 339.447,
+    "deviation": "2.26"
+  },
+  {
+    "date": "2022-02-11",
+    "predictedValue": 327.9885,
+    "actualValue": 350.725,
+    "deviation": "6.48"
+  },
+  {
+    "date": "2022-02-12",
+    "predictedValue": 326.88199999999995,
+    "actualValue": 333.441,
+    "deviation": "1.97"
+  },
+  {
+    "date": "2022-02-13",
+    "predictedValue": 338.1015,
+    "actualValue": 327.009,
+    "deviation": "3.39"
+  },
+  {
+    "date": "2022-02-14",
+    "predictedValue": 321.622,
+    "actualValue": 329.215,
+    "deviation": "2.31"
+  },
+  {
+    "date": "2022-02-15",
+    "predictedValue": 323.854,
+    "actualValue": 321.922,
+    "deviation": "0.60"
+  },
+  {
+    "date": "2022-02-16",
+    "predictedValue": 318.3825,
+    "actualValue": 322.297,
+    "deviation": "1.21"
+  },
+  {
+    "date": "2022-02-17",
+    "predictedValue": 334.569,
+    "actualValue": 333.702,
+    "deviation": "0.26"
+  },
+  {
+    "date": "2022-02-18",
+    "predictedValue": 326.1995,
+    "actualValue": 321.754,
+    "deviation": "1.38"
+  },
+  {
+    "date": "2022-02-19",
+    "predictedValue": 338.98199999999997,
+    "actualValue": 301.016,
+    "deviation": "12.61"
+  },
+  {
+    "date": "2022-02-20",
+    "predictedValue": 333.078,
+    "actualValue": 320.968,
+    "deviation": "3.77"
+  },
+  {
+    "date": "2022-02-21",
+    "predictedValue": 320.04150000000004,
+    "actualValue": 288.372,
+    "deviation": "10.98"
+  },
+  {
+    "date": "2022-02-22",
+    "predictedValue": 317.5235,
+    "actualValue": 292.521,
+    "deviation": "8.55"
+  },
+  {
+    "date": "2022-02-23",
+    "predictedValue": 326.012,
+    "actualValue": 287.569,
+    "deviation": "13.37"
+  },
+  {
+    "date": "2022-02-24",
+    "predictedValue": 317.07849999999996,
+    "actualValue": 304.149,
+    "deviation": "4.25"
+  },
+  {
+    "date": "2022-02-25",
+    "predictedValue": 318.77599999999995,
+    "actualValue": 313.626,
+    "deviation": "1.64"
+  },
+  {
+    "date": "2022-02-26",
+    "predictedValue": 332.99749999999995,
+    "actualValue": 313.553,
+    "deviation": "6.20"
+  },
+  {
+    "date": "2022-02-27",
+    "predictedValue": 331.437,
+    "actualValue": 302.278,
+    "deviation": "9.65"
+  },
+  {
+    "date": "2022-02-28",
+    "predictedValue": 328.563,
+    "actualValue": 304.35,
+    "deviation": "7.96"
+  },
+  {
+    "date": "2022-03-01",
+    "predictedValue": 320.697,
+    "actualValue": 316.037,
+    "deviation": "1.47"
+  },
+  {
+    "date": "2022-03-02",
+    "predictedValue": 313.72299999999996,
+    "actualValue": 307.683,
+    "deviation": "1.96"
+  },
+  {
+    "date": "2022-03-03",
+    "predictedValue": 321.98900000000003,
+    "actualValue": 291.13,
+    "deviation": "10.60"
+  },
+  {
+    "date": "2022-03-04",
+    "predictedValue": 317.0095,
+    "actualValue": 313.983,
+    "deviation": "0.96"
+  },
+  {
+    "date": "2022-03-05",
+    "predictedValue": 319.6355,
+    "actualValue": 291.183,
+    "deviation": "9.77"
+  },
+  {
+    "date": "2022-03-06",
+    "predictedValue": 309.0595,
+    "actualValue": 299.052,
+    "deviation": "3.35"
+  },
+  {
+    "date": "2022-03-07",
+    "predictedValue": 311.69849999999997,
+    "actualValue": 300.34,
+    "deviation": "3.78"
+  },
+  {
+    "date": "2022-03-08",
+    "predictedValue": 316.4655,
+    "actualValue": 313.186,
+    "deviation": "1.05"
+  },
+  {
+    "date": "2022-03-09",
+    "predictedValue": 310.8185,
+    "actualValue": 308.368,
+    "deviation": "0.79"
+  },
+  {
+    "date": "2022-03-10",
+    "predictedValue": 322.5935,
+    "actualValue": 302.043,
+    "deviation": "6.80"
+  },
+  {
+    "date": "2022-03-11",
+    "predictedValue": 317.7955,
+    "actualValue": 326.995,
+    "deviation": "2.81"
+  },
+  {
+    "date": "2022-03-12",
+    "predictedValue": 319.97249999999997,
+    "actualValue": 293.544,
+    "deviation": "9.00"
+  },
+  {
+    "date": "2022-03-13",
+    "predictedValue": 318.105,
+    "actualValue": 286.801,
+    "deviation": "10.91"
+  },
+  {
+    "date": "2022-03-14",
+    "predictedValue": 306.658,
+    "actualValue": 295.308,
+    "deviation": "3.84"
+  },
+  {
+    "date": "2022-03-15",
+    "predictedValue": 316.66200000000003,
+    "actualValue": 288.641,
+    "deviation": "9.71"
+  },
+  {
+    "date": "2022-03-16",
+    "predictedValue": 312.899,
+    "actualValue": 288.339,
+    "deviation": "8.52"
+  },
+  {
+    "date": "2022-03-17",
+    "predictedValue": 314.4035,
+    "actualValue": 285.196,
+    "deviation": "10.24"
+  },
+  {
+    "date": "2022-03-18",
+    "predictedValue": 314.141,
+    "actualValue": 299.432,
+    "deviation": "4.91"
+  },
+  {
+    "date": "2022-03-19",
+    "predictedValue": 330.8705,
+    "actualValue": 294.848,
+    "deviation": "12.22"
+  },
+  {
+    "date": "2022-03-20",
+    "predictedValue": 326.0965,
+    "actualValue": 279.991,
+    "deviation": "16.47"
+  },
+  {
+    "date": "2022-03-21",
+    "predictedValue": 312.7785,
+    "actualValue": 271.5,
+    "deviation": "15.20"
+  },
+  {
+    "date": "2022-03-22",
+    "predictedValue": 314.56600000000003,
+    "actualValue": 280.769,
+    "deviation": "12.04"
+  },
+  {
+    "date": "2022-03-23",
+    "predictedValue": 312.54449999999997,
+    "actualValue": 274.131,
+    "deviation": "14.01"
+  },
+  {
+    "date": "2022-03-24",
+    "predictedValue": 317.067,
+    "actualValue": 280.189,
+    "deviation": "13.16"
+  },
+  {
+    "date": "2022-03-25",
+    "predictedValue": 320.8985,
+    "actualValue": 296.874,
+    "deviation": "8.09"
+  },
+  {
+    "date": "2022-03-26",
+    "predictedValue": 326.592,
+    "actualValue": 291.168,
+    "deviation": "12.17"
+  },
+  {
+    "date": "2022-03-27",
+    "predictedValue": 314.245,
+    "actualValue": 281.032,
+    "deviation": "11.82"
+  },
+  {
+    "date": "2022-03-28",
+    "predictedValue": 310.0355,
+    "actualValue": 291.594,
+    "deviation": "6.32"
+  },
+  {
+    "date": "2022-03-29",
+    "predictedValue": 314.135,
+    "actualValue": 288.545,
+    "deviation": "8.87"
+  },
+  {
+    "date": "2022-03-30",
+    "predictedValue": 334.769,
+    "actualValue": 305.456,
+    "deviation": "9.60"
+  },
+  {
+    "date": "2022-03-31",
+    "predictedValue": 355.13750000000005,
+    "actualValue": 282.14,
+    "deviation": "25.87"
+  },
+  {
+    "date": "2022-04-01",
+    "predictedValue": 370.163,
+    "actualValue": 293.786,
+    "deviation": "26.00"
+  },
+  {
+    "date": "2022-04-02",
+    "predictedValue": 377.6865,
+    "actualValue": 310.456,
+    "deviation": "21.66"
+  },
+  {
+    "date": "2022-04-03",
+    "predictedValue": 353.274,
+    "actualValue": 279.471,
+    "deviation": "26.41"
+  },
+  {
+    "date": "2022-04-04",
+    "predictedValue": 347.249,
+    "actualValue": 296.312,
+    "deviation": "17.19"
+  },
+  {
+    "date": "2022-04-05",
+    "predictedValue": 349.378,
+    "actualValue": 264.159,
+    "deviation": "32.26"
+  },
+  {
+    "date": "2022-04-06",
+    "predictedValue": 345.24649999999997,
+    "actualValue": 278.194,
+    "deviation": "24.10"
+  },
+  {
+    "date": "2022-04-07",
+    "predictedValue": 336.677,
+    "actualValue": 280.701,
+    "deviation": "19.94"
+  },
+  {
+    "date": "2022-04-08",
+    "predictedValue": 338.454,
+    "actualValue": 282.681,
+    "deviation": "19.73"
+  },
+  {
+    "date": "2022-04-09",
+    "predictedValue": 366.9015,
+    "actualValue": 289.025,
+    "deviation": "26.94"
+  },
+  {
+    "date": "2022-04-10",
+    "predictedValue": 358.6615,
+    "actualValue": 267.038,
+    "deviation": "34.31"
+  },
+  {
+    "date": "2022-04-11",
+    "predictedValue": 346.33500000000004,
+    "actualValue": 273.333,
+    "deviation": "26.71"
+  },
+  {
+    "date": "2022-04-12",
+    "predictedValue": 333.8115,
+    "actualValue": 266.754,
+    "deviation": "25.14"
+  },
+  {
+    "date": "2022-04-13",
+    "predictedValue": 324.629,
+    "actualValue": 277.16,
+    "deviation": "17.13"
+  },
+  {
+    "date": "2022-04-14",
+    "predictedValue": 325.488,
+    "actualValue": 275.237,
+    "deviation": "18.26"
+  },
+  {
+    "date": "2022-04-15",
+    "predictedValue": 339.836,
+    "actualValue": 283.553,
+    "deviation": "19.85"
+  },
+  {
+    "date": "2022-04-16",
+    "predictedValue": 343.55899999999997,
+    "actualValue": 259.822,
+    "deviation": "32.23"
+  },
+  {
+    "date": "2022-04-17",
+    "predictedValue": 336.1895,
+    "actualValue": 270.157,
+    "deviation": "24.44"
+  },
+  {
+    "date": "2022-04-18",
+    "predictedValue": 345.85400000000004,
+    "actualValue": 271.521,
+    "deviation": "27.38"
+  },
+  {
+    "date": "2022-04-19",
+    "predictedValue": 324.451,
+    "actualValue": 293.053,
+    "deviation": "10.71"
+  },
+  {
+    "date": "2022-04-20",
+    "predictedValue": 341.76099999999997,
+    "actualValue": 267.512,
+    "deviation": "27.76"
+  },
+  {
+    "date": "2022-04-21",
+    "predictedValue": 319.7745,
+    "actualValue": 275.053,
+    "deviation": "16.26"
+  },
+  {
+    "date": "2022-04-22",
+    "predictedValue": 320.01599999999996,
+    "actualValue": 291.427,
+    "deviation": "9.81"
+  },
+  {
+    "date": "2022-04-23",
+    "predictedValue": 334.102,
+    "actualValue": 280.629,
+    "deviation": "19.05"
+  },
+  {
+    "date": "2022-04-24",
+    "predictedValue": 332.3055,
+    "actualValue": 269.939,
+    "deviation": "23.10"
+  },
+  {
+    "date": "2022-04-25",
+    "predictedValue": 322.962,
+    "actualValue": 277.31,
+    "deviation": "16.46"
+  },
+  {
+    "date": "2022-04-26",
+    "predictedValue": 321.53049999999996,
+    "actualValue": 289.771,
+    "deviation": "10.96"
+  },
+  {
+    "date": "2022-04-27",
+    "predictedValue": 323.596,
+    "actualValue": 266.556,
+    "deviation": "21.40"
+  },
+  {
+    "date": "2022-04-28",
+    "predictedValue": 327.0105,
+    "actualValue": 272.152,
+    "deviation": "20.16"
+  },
+  {
+    "date": "2022-04-29",
+    "predictedValue": 323.16049999999996,
+    "actualValue": 297.24,
+    "deviation": "8.72"
+  },
+  {
+    "date": "2022-04-30",
+    "predictedValue": 339.6975,
+    "actualValue": 262.673,
+    "deviation": "29.32"
+  },
+  {
+    "date": "2022-05-01",
+    "predictedValue": 344.4425,
+    "actualValue": 282.403,
+    "deviation": "21.97"
+  },
+  {
+    "date": "2022-05-02",
+    "predictedValue": 329.678,
+    "actualValue": 325.053,
+    "deviation": "1.42"
+  },
+  {
+    "date": "2022-05-03",
+    "predictedValue": 318.8005,
+    "actualValue": 323.848,
+    "deviation": "1.56"
+  },
+  {
+    "date": "2022-05-04",
+    "predictedValue": 320.845,
+    "actualValue": 319.775,
+    "deviation": "0.33"
+  },
+  {
+    "date": "2022-05-05",
+    "predictedValue": 313.658,
+    "actualValue": 325.579,
+    "deviation": "3.66"
+  },
+  {
+    "date": "2022-05-06",
+    "predictedValue": 324.5135,
+    "actualValue": 337.398,
+    "deviation": "3.82"
+  },
+  {
+    "date": "2022-05-07",
+    "predictedValue": 334.0315,
+    "actualValue": 333.096,
+    "deviation": "0.28"
+  },
+  {
+    "date": "2022-05-08",
+    "predictedValue": 325.467,
+    "actualValue": 308.031,
+    "deviation": "5.66"
+  },
+  {
+    "date": "2022-05-09",
+    "predictedValue": 312.57849999999996,
+    "actualValue": 302.231,
+    "deviation": "3.42"
+  },
+  {
+    "date": "2022-05-10",
+    "predictedValue": 319.1465,
+    "actualValue": 324.677,
+    "deviation": "1.70"
+  },
+  {
+    "date": "2022-05-11",
+    "predictedValue": 313.14549999999997,
+    "actualValue": 320.688,
+    "deviation": "2.35"
+  },
+  {
+    "date": "2022-05-12",
+    "predictedValue": 308.6935,
+    "actualValue": 313.129,
+    "deviation": "1.42"
+  },
+  {
+    "date": "2022-05-13",
+    "predictedValue": 314.1835,
+    "actualValue": 334.019,
+    "deviation": "5.94"
+  },
+  {
+    "date": "2022-05-14",
+    "predictedValue": 327.61850000000004,
+    "actualValue": 318.889,
+    "deviation": "2.74"
+  },
+  {
+    "date": "2022-05-15",
+    "predictedValue": 308.93399999999997,
+    "actualValue": 315.525,
+    "deviation": "2.09"
+  },
+  {
+    "date": "2022-05-16",
+    "predictedValue": 311.8435,
+    "actualValue": 324.389,
+    "deviation": "3.87"
+  },
+  {
+    "date": "2022-05-17",
+    "predictedValue": 317.8605,
+    "actualValue": 322.254,
+    "deviation": "1.36"
+  },
+  {
+    "date": "2022-05-18",
+    "predictedValue": 330.096,
+    "actualValue": 317.698,
+    "deviation": "3.90"
+  },
+  {
+    "date": "2022-05-19",
+    "predictedValue": 318.943,
+    "actualValue": 317.937,
+    "deviation": "0.32"
+  },
+  {
+    "date": "2022-05-20",
+    "predictedValue": 312.2845,
+    "actualValue": 319.183,
+    "deviation": "2.16"
+  },
+  {
+    "date": "2022-05-21",
+    "predictedValue": 321.9185,
+    "actualValue": 336.342,
+    "deviation": "4.29"
+  },
+  {
+    "date": "2022-05-22",
+    "predictedValue": 306.03049999999996,
+    "actualValue": 302.269,
+    "deviation": "1.24"
+  },
+  {
+    "date": "2022-05-23",
+    "predictedValue": 298.1775,
+    "actualValue": 309.577,
+    "deviation": "3.68"
+  },
+  {
+    "date": "2022-05-24",
+    "predictedValue": 310.91150000000005,
+    "actualValue": 304.743,
+    "deviation": "2.02"
+  },
+  {
+    "date": "2022-05-25",
+    "predictedValue": 295.02750000000003,
+    "actualValue": 311.722,
+    "deviation": "5.36"
+  },
+  {
+    "date": "2022-05-26",
+    "predictedValue": 306.989,
+    "actualValue": 301.236,
+    "deviation": "1.91"
+  },
+  {
+    "date": "2022-05-27",
+    "predictedValue": 309.543,
+    "actualValue": 326.155,
+    "deviation": "5.09"
+  },
+  {
+    "date": "2022-05-28",
+    "predictedValue": 310.7045,
+    "actualValue": 313.767,
+    "deviation": "0.98"
+  },
+  {
+    "date": "2022-05-29",
+    "predictedValue": 312.179,
+    "actualValue": 302.773,
+    "deviation": "3.11"
+  },
+  {
+    "date": "2022-05-30",
+    "predictedValue": 295.499,
+    "actualValue": 306.547,
+    "deviation": "3.60"
+  },
+  {
+    "date": "2022-05-31",
+    "predictedValue": 297.711,
+    "actualValue": 311.514,
+    "deviation": "4.43"
+  },
+  {
+    "date": "2022-06-01",
+    "predictedValue": 295.75,
+    "actualValue": 325.9,
+    "deviation": "9.25"
+  },
+  {
+    "date": "2022-06-02",
+    "predictedValue": 301.99800000000005,
+    "actualValue": 331.124,
+    "deviation": "8.80"
+  },
+  {
+    "date": "2022-06-03",
+    "predictedValue": 301.9715,
+    "actualValue": 348.17,
+    "deviation": "13.27"
+  },
+  {
+    "date": "2022-06-04",
+    "predictedValue": 316.2605,
+    "actualValue": 310.295,
+    "deviation": "1.92"
+  },
+  {
+    "date": "2022-06-05",
+    "predictedValue": 320.5265,
+    "actualValue": 321.712,
+    "deviation": "0.37"
+  },
+  {
+    "date": "2022-06-06",
+    "predictedValue": 333.7555,
+    "actualValue": 318.562,
+    "deviation": "4.77"
+  },
+  {
+    "date": "2022-06-07",
+    "predictedValue": 302.861,
+    "actualValue": 300.208,
+    "deviation": "0.88"
+  },
+  {
+    "date": "2022-06-08",
+    "predictedValue": 255.481,
+    "actualValue": 311.892,
+    "deviation": "18.09"
+  },
+  {
+    "date": "2022-06-09",
+    "predictedValue": 319.889,
+    "actualValue": 316.579,
+    "deviation": "1.05"
+  },
+  {
+    "date": "2022-06-10",
+    "predictedValue": 311.443,
+    "actualValue": 346.742,
+    "deviation": "10.18"
+  },
+  {
+    "date": "2022-06-11",
+    "predictedValue": 340.7475,
+    "actualValue": 317.975,
+    "deviation": "7.16"
+  },
+  {
+    "date": "2022-06-12",
+    "predictedValue": 338.824,
+    "actualValue": 319.125,
+    "deviation": "6.17"
+  },
+  {
+    "date": "2022-06-13",
+    "predictedValue": 319.283,
+    "actualValue": 308.838,
+    "deviation": "3.38"
+  },
+  {
+    "date": "2022-06-14",
+    "predictedValue": 316.7445,
+    "actualValue": 313.524,
+    "deviation": "1.03"
+  },
+  {
+    "date": "2022-06-15",
+    "predictedValue": 318.63,
+    "actualValue": 324.446,
+    "deviation": "1.79"
+  },
+  {
+    "date": "2022-06-16",
+    "predictedValue": 329.538,
+    "actualValue": 312.038,
+    "deviation": "5.61"
+  },
+  {
+    "date": "2022-06-17",
+    "predictedValue": 330.267,
+    "actualValue": 322.301,
+    "deviation": "2.47"
+  },
+  {
+    "date": "2022-06-18",
+    "predictedValue": 336.09749999999997,
+    "actualValue": 308.014,
+    "deviation": "9.12"
+  },
+  {
+    "date": "2022-06-19",
+    "predictedValue": 337.5685,
+    "actualValue": 319.811,
+    "deviation": "5.55"
+  },
+  {
+    "date": "2022-06-20",
+    "predictedValue": 334.408,
+    "actualValue": 309.73,
+    "deviation": "7.97"
+  },
+  {
+    "date": "2022-06-21",
+    "predictedValue": 335.7595,
+    "actualValue": 314.553,
+    "deviation": "6.74"
+  },
+  {
+    "date": "2022-06-22",
+    "predictedValue": 328.7825,
+    "actualValue": 324.62,
+    "deviation": "1.28"
+  },
+  {
+    "date": "2022-06-23",
+    "predictedValue": 333.869,
+    "actualValue": 328.174,
+    "deviation": "1.74"
+  },
+  {
+    "date": "2022-06-24",
+    "predictedValue": 342.533,
+    "actualValue": 337.912,
+    "deviation": "1.37"
+  },
+  {
+    "date": "2022-06-25",
+    "predictedValue": 348.913,
+    "actualValue": 326.789,
+    "deviation": "6.77"
+  },
+  {
+    "date": "2022-06-26",
+    "predictedValue": 344.4325,
+    "actualValue": 356.576,
+    "deviation": "3.41"
+  },
+  {
+    "date": "2022-06-27",
+    "predictedValue": 325.751,
+    "actualValue": 353.884,
+    "deviation": "7.95"
+  },
+  {
+    "date": "2022-06-28",
+    "predictedValue": 325.5435,
+    "actualValue": 346.885,
+    "deviation": "6.15"
+  },
+  {
+    "date": "2022-06-29",
+    "predictedValue": 335.8595,
+    "actualValue": 344.012,
+    "deviation": "2.37"
+  },
+  {
+    "date": "2022-06-30",
+    "predictedValue": 333.44100000000003,
+    "actualValue": 339.269,
+    "deviation": "1.72"
+  },
+  {
+    "date": "2022-07-01",
+    "predictedValue": 330.1375,
+    "actualValue": 372.636,
+    "deviation": "11.40"
+  },
+  {
+    "date": "2022-07-02",
+    "predictedValue": 335.4095,
+    "actualValue": 324.635,
+    "deviation": "3.32"
+  },
+  {
+    "date": "2022-07-03",
+    "predictedValue": 338.07000000000005,
+    "actualValue": 323.058,
+    "deviation": "4.65"
+  },
+  {
+    "date": "2022-07-04",
+    "predictedValue": 325.259,
+    "actualValue": 310.007,
+    "deviation": "4.92"
+  },
+  {
+    "date": "2022-07-05",
+    "predictedValue": 323.2205,
+    "actualValue": 304.452,
+    "deviation": "6.16"
+  },
+  {
+    "date": "2022-07-06",
+    "predictedValue": 326.173,
+    "actualValue": 317.182,
+    "deviation": "2.83"
+  },
+  {
+    "date": "2022-07-07",
+    "predictedValue": 336.0165,
+    "actualValue": 319.128,
+    "deviation": "5.29"
+  },
+  {
+    "date": "2022-07-08",
+    "predictedValue": 339.831,
+    "actualValue": 333.185,
+    "deviation": "1.99"
+  },
+  {
+    "date": "2022-07-09",
+    "predictedValue": 345.25199999999995,
+    "actualValue": 310.232,
+    "deviation": "11.29"
+  },
+  {
+    "date": "2022-07-10",
+    "predictedValue": 324.8245,
+    "actualValue": 323.695,
+    "deviation": "0.35"
+  },
+  {
+    "date": "2022-07-11",
+    "predictedValue": 343.9685,
+    "actualValue": 333.712,
+    "deviation": "3.07"
+  },
+  {
+    "date": "2022-07-12",
+    "predictedValue": 340.3095,
+    "actualValue": 338.5,
+    "deviation": "0.53"
+  },
+  {
+    "date": "2022-07-13",
+    "predictedValue": 348.4165,
+    "actualValue": 324.888,
+    "deviation": "7.24"
+  },
+  {
+    "date": "2022-07-14",
+    "predictedValue": 343.11850000000004,
+    "actualValue": 334.172,
+    "deviation": "2.68"
+  },
+  {
+    "date": "2022-07-15",
+    "predictedValue": 341.579,
+    "actualValue": 341.219,
+    "deviation": "0.11"
+  },
+  {
+    "date": "2022-07-16",
+    "predictedValue": 338.783,
+    "actualValue": 326.734,
+    "deviation": "3.69"
+  },
+  {
+    "date": "2022-07-17",
+    "predictedValue": 329.5265,
+    "actualValue": 343.069,
+    "deviation": "3.95"
+  },
+  {
+    "date": "2022-07-18",
+    "predictedValue": 299.42600000000004,
+    "actualValue": 337.946,
+    "deviation": "11.40"
+  },
+  {
+    "date": "2022-07-19",
+    "predictedValue": 304.519,
+    "actualValue": 326.207,
+    "deviation": "6.65"
+  },
+  {
+    "date": "2022-07-20",
+    "predictedValue": 306.68449999999996,
+    "actualValue": 332.186,
+    "deviation": "7.68"
+  },
+  {
+    "date": "2022-07-21",
+    "predictedValue": 306.70799999999997,
+    "actualValue": 332.353,
+    "deviation": "7.72"
+  },
+  {
+    "date": "2022-07-22",
+    "predictedValue": 299.8065,
+    "actualValue": 354.021,
+    "deviation": "15.31"
+  },
+  {
+    "date": "2022-07-23",
+    "predictedValue": 309.527,
+    "actualValue": 334.242,
+    "deviation": "7.39"
+  },
+  {
+    "date": "2022-07-24",
+    "predictedValue": 299.507,
+    "actualValue": 340.632,
+    "deviation": "12.07"
+  },
+  {
+    "date": "2022-07-25",
+    "predictedValue": 301.033,
+    "actualValue": 324.759,
+    "deviation": "7.31"
+  },
+  {
+    "date": "2022-07-26",
+    "predictedValue": 280.3025,
+    "actualValue": 323.176,
+    "deviation": "13.27"
+  },
+  {
+    "date": "2022-07-27",
+    "predictedValue": 277.8395,
+    "actualValue": 323.704,
+    "deviation": "14.17"
+  },
+  {
+    "date": "2022-07-28",
+    "predictedValue": 279.02250000000004,
+    "actualValue": 332.737,
+    "deviation": "16.14"
+  },
+  {
+    "date": "2022-07-29",
+    "predictedValue": 296.62,
+    "actualValue": 359.479,
+    "deviation": "17.49"
+  },
+  {
+    "date": "2022-07-30",
+    "predictedValue": 307.6005,
+    "actualValue": 331.764,
+    "deviation": "7.28"
+  },
+  {
+    "date": "2022-07-31",
+    "predictedValue": 294.464,
+    "actualValue": 339.451,
+    "deviation": "13.25"
+  },
+  {
+    "date": "2022-08-01",
+    "predictedValue": 283.9095,
+    "actualValue": 335.772,
+    "deviation": "15.45"
+  },
+  {
+    "date": "2022-08-02",
+    "predictedValue": 280.719,
+    "actualValue": 339.188,
+    "deviation": "17.24"
+  },
+  {
+    "date": "2022-08-03",
+    "predictedValue": 296.2315,
+    "actualValue": 336.266,
+    "deviation": "11.91"
+  },
+  {
+    "date": "2022-08-04",
+    "predictedValue": 311.639,
+    "actualValue": 331.835,
+    "deviation": "6.09"
+  },
+  {
+    "date": "2022-08-05",
+    "predictedValue": 282.137,
+    "actualValue": 341.567,
+    "deviation": "17.40"
+  },
+  {
+    "date": "2022-08-06",
+    "predictedValue": 296.024,
+    "actualValue": 331.26,
+    "deviation": "10.64"
+  },
+  {
+    "date": "2022-08-07",
+    "predictedValue": 296.73400000000004,
+    "actualValue": 324.8,
+    "deviation": "8.64"
+  },
+  {
+    "date": "2022-08-08",
+    "predictedValue": 276.017,
+    "actualValue": 330.197,
+    "deviation": "16.41"
+  },
+  {
+    "date": "2022-08-09",
+    "predictedValue": 283.45399999999995,
+    "actualValue": 336.542,
+    "deviation": "15.77"
+  },
+  {
+    "date": "2022-08-10",
+    "predictedValue": 283.957,
+    "actualValue": 335.081,
+    "deviation": "15.26"
+  },
+  {
+    "date": "2022-08-11",
+    "predictedValue": 300.9145,
+    "actualValue": 319.378,
+    "deviation": "5.78"
+  },
+  {
+    "date": "2022-08-12",
+    "predictedValue": 306.423,
+    "actualValue": 349.002,
+    "deviation": "12.20"
+  },
+  {
+    "date": "2022-08-13",
+    "predictedValue": 316.4375,
+    "actualValue": 330.939,
+    "deviation": "4.38"
+  },
+  {
+    "date": "2022-08-14",
+    "predictedValue": 311.536,
+    "actualValue": 337.783,
+    "deviation": "7.77"
+  },
+  {
+    "date": "2022-08-15",
+    "predictedValue": 341.18550000000005,
+    "actualValue": 345.04,
+    "deviation": "1.12"
+  },
+  {
+    "date": "2022-08-16",
+    "predictedValue": 320.77599999999995,
+    "actualValue": 361.067,
+    "deviation": "11.16"
+  },
+  {
+    "date": "2022-08-17",
+    "predictedValue": 320.9085,
+    "actualValue": 345.44,
+    "deviation": "7.10"
+  },
+  {
+    "date": "2022-08-18",
+    "predictedValue": 331.632,
+    "actualValue": 333.809,
+    "deviation": "0.65"
+  },
+  {
+    "date": "2022-08-19",
+    "predictedValue": 333.735,
+    "actualValue": 341.175,
+    "deviation": "2.18"
+  },
+  {
+    "date": "2022-08-20",
+    "predictedValue": 346.5535,
+    "actualValue": 331.503,
+    "deviation": "4.54"
+  },
+  {
+    "date": "2022-08-21",
+    "predictedValue": 341.116,
+    "actualValue": 338.002,
+    "deviation": "0.92"
+  },
+  {
+    "date": "2022-08-22",
+    "predictedValue": 334.78700000000003,
+    "actualValue": 342.872,
+    "deviation": "2.36"
+  },
+  {
+    "date": "2022-08-23",
+    "predictedValue": 330.331,
+    "actualValue": 324.669,
+    "deviation": "1.74"
+  },
+  {
+    "date": "2022-08-24",
+    "predictedValue": 334.96500000000003,
+    "actualValue": 347.872,
+    "deviation": "3.71"
+  },
+  {
+    "date": "2022-08-25",
+    "predictedValue": 341.764,
+    "actualValue": 339.431,
+    "deviation": "0.69"
+  },
+  {
+    "date": "2022-08-26",
+    "predictedValue": 338.4885,
+    "actualValue": 343.672,
+    "deviation": "1.51"
+  },
+  {
+    "date": "2022-08-27",
+    "predictedValue": 346.5525,
+    "actualValue": 335.508,
+    "deviation": "3.29"
+  },
+  {
+    "date": "2022-08-28",
+    "predictedValue": 334.5385,
+    "actualValue": 335.049,
+    "deviation": "0.15"
+  },
+  {
+    "date": "2022-08-29",
+    "predictedValue": 313.938,
+    "actualValue": 353.17,
+    "deviation": "11.11"
+  },
+  {
+    "date": "2022-08-30",
+    "predictedValue": 318.507,
+    "actualValue": 365.114,
+    "deviation": "12.77"
+  },
+  {
+    "date": "2022-08-31",
+    "predictedValue": 310.12850000000003,
+    "actualValue": 339.668,
+    "deviation": "8.70"
+  },
+  {
+    "date": "2022-09-01",
+    "predictedValue": 320.341,
+    "actualValue": 335.595,
+    "deviation": "4.55"
+  },
+  {
+    "date": "2022-09-02",
+    "predictedValue": 322.151,
+    "actualValue": 347.081,
+    "deviation": "7.18"
+  },
+  {
+    "date": "2022-09-03",
+    "predictedValue": 333.2075,
+    "actualValue": 341.621,
+    "deviation": "2.46"
+  },
+  {
+    "date": "2022-09-04",
+    "predictedValue": 318.201,
+    "actualValue": 370.314,
+    "deviation": "14.07"
+  },
+  {
+    "date": "2022-09-05",
+    "predictedValue": 324.802,
+    "actualValue": 355.158,
+    "deviation": "8.55"
+  },
+  {
+    "date": "2022-09-06",
+    "predictedValue": 319.648,
+    "actualValue": 351.637,
+    "deviation": "9.10"
+  },
+  {
+    "date": "2022-09-07",
+    "predictedValue": 322.166,
+    "actualValue": 334.537,
+    "deviation": "3.70"
+  },
+  {
+    "date": "2022-09-08",
+    "predictedValue": 331.4345,
+    "actualValue": 309.742,
+    "deviation": "7.00"
+  },
+  {
+    "date": "2022-09-09",
+    "predictedValue": 344.9205,
+    "actualValue": 367.479,
+    "deviation": "6.14"
+  },
+  {
+    "date": "2022-09-10",
+    "predictedValue": 346.23400000000004,
+    "actualValue": 344.627,
+    "deviation": "0.47"
+  },
+  {
+    "date": "2022-09-11",
+    "predictedValue": 335.6235,
+    "actualValue": 320.149,
+    "deviation": "4.83"
+  },
+  {
+    "date": "2022-09-12",
+    "predictedValue": 319.2485,
+    "actualValue": 330.8,
+    "deviation": "3.49"
+  },
+  {
+    "date": "2022-09-13",
+    "predictedValue": 312.31,
+    "actualValue": 313.407,
+    "deviation": "0.35"
+  },
+  {
+    "date": "2022-09-14",
+    "predictedValue": 319.49850000000004,
+    "actualValue": 310.416,
+    "deviation": "2.93"
+  },
+  {
+    "date": "2022-09-15",
+    "predictedValue": 332.6755,
+    "actualValue": 309.398,
+    "deviation": "7.52"
+  },
+  {
+    "date": "2022-09-16",
+    "predictedValue": 330.20799999999997,
+    "actualValue": 330.611,
+    "deviation": "0.12"
+  },
+  {
+    "date": "2022-09-17",
+    "predictedValue": 318.2825,
+    "actualValue": 318.456,
+    "deviation": "0.05"
+  },
+  {
+    "date": "2022-09-18",
+    "predictedValue": 305.909,
+    "actualValue": 325.743,
+    "deviation": "6.09"
+  },
+  {
+    "date": "2022-09-19",
+    "predictedValue": 291.08000000000004,
+    "actualValue": 315.783,
+    "deviation": "7.82"
+  },
+  {
+    "date": "2022-09-20",
+    "predictedValue": 303.678,
+    "actualValue": 326.128,
+    "deviation": "6.88"
+  },
+  {
+    "date": "2022-09-21",
+    "predictedValue": 311.8495,
+    "actualValue": 332.431,
+    "deviation": "6.19"
+  },
+  {
+    "date": "2022-09-22",
+    "predictedValue": 297.942,
+    "actualValue": 319.654,
+    "deviation": "6.79"
+  },
+  {
+    "date": "2022-09-23",
+    "predictedValue": 302.1,
+    "actualValue": 350.27,
+    "deviation": "13.75"
+  },
+  {
+    "date": "2022-09-24",
+    "predictedValue": 312.83450000000005,
+    "actualValue": 332.681,
+    "deviation": "5.97"
+  },
+  {
+    "date": "2022-09-25",
+    "predictedValue": 308.5185,
+    "actualValue": 318.065,
+    "deviation": "3.00"
+  },
+  {
+    "date": "2022-09-26",
+    "predictedValue": 293.62850000000003,
+    "actualValue": 296.674,
+    "deviation": "1.03"
+  },
+  {
+    "date": "2022-09-27",
+    "predictedValue": 291.62,
+    "actualValue": 321.72,
+    "deviation": "9.36"
+  },
+  {
+    "date": "2022-09-28",
+    "predictedValue": 310.573,
+    "actualValue": 310.846,
+    "deviation": "0.09"
+  },
+  {
+    "date": "2022-09-29",
+    "predictedValue": 320.176,
+    "actualValue": 310.187,
+    "deviation": "3.22"
+  },
+  {
+    "date": "2022-09-30",
+    "predictedValue": 315.76300000000003,
+    "actualValue": 325.433,
+    "deviation": "2.97"
+  },
+  {
+    "date": "2022-10-01",
+    "predictedValue": 319.3645,
+    "actualValue": 302.329,
+    "deviation": "5.63"
+  },
+  {
+    "date": "2022-10-02",
+    "predictedValue": 305.16700000000003,
+    "actualValue": 322.766,
+    "deviation": "5.45"
+  },
+  {
+    "date": "2022-10-03",
+    "predictedValue": 298.159,
+    "actualValue": 300.934,
+    "deviation": "0.92"
+  },
+  {
+    "date": "2022-10-04",
+    "predictedValue": 291.2475,
+    "actualValue": 349.336,
+    "deviation": "16.63"
+  },
+  {
+    "date": "2022-10-05",
+    "predictedValue": 295.54449999999997,
+    "actualValue": 318.172,
+    "deviation": "7.11"
+  },
+  {
+    "date": "2022-10-06",
+    "predictedValue": 295.045,
+    "actualValue": 304.689,
+    "deviation": "3.17"
+  },
+  {
+    "date": "2022-10-07",
+    "predictedValue": 289.69100000000003,
+    "actualValue": 314.637,
+    "deviation": "7.93"
+  },
+  {
+    "date": "2022-10-08",
+    "predictedValue": 290.824,
+    "actualValue": 309.528,
+    "deviation": "6.04"
+  },
+  {
+    "date": "2022-10-09",
+    "predictedValue": 287.37350000000004,
+    "actualValue": 300.33,
+    "deviation": "4.31"
+  },
+  {
+    "date": "2022-10-10",
+    "predictedValue": 287.305,
+    "actualValue": 285.008,
+    "deviation": "0.81"
+  },
+  {
+    "date": "2022-10-11",
+    "predictedValue": 297.692,
+    "actualValue": 301.317,
+    "deviation": "1.20"
+  },
+  {
+    "date": "2022-10-12",
+    "predictedValue": 288.04449999999997,
+    "actualValue": 302.588,
+    "deviation": "4.81"
+  },
+  {
+    "date": "2022-10-13",
+    "predictedValue": 294.344,
+    "actualValue": 302.034,
+    "deviation": "2.55"
+  },
+  {
+    "date": "2022-10-14",
+    "predictedValue": 295.696,
+    "actualValue": 314.99,
+    "deviation": "6.13"
+  },
+  {
+    "date": "2022-10-15",
+    "predictedValue": 290.3385,
+    "actualValue": 321.951,
+    "deviation": "9.82"
+  },
+  {
+    "date": "2022-10-16",
+    "predictedValue": 280.1635,
+    "actualValue": 319.66,
+    "deviation": "12.36"
+  },
+  {
+    "date": "2022-10-17",
+    "predictedValue": 272.804,
+    "actualValue": 299.481,
+    "deviation": "8.91"
+  },
+  {
+    "date": "2022-10-18",
+    "predictedValue": 277.799,
+    "actualValue": 308.623,
+    "deviation": "9.99"
+  },
+  {
+    "date": "2022-10-19",
+    "predictedValue": 279.9085,
+    "actualValue": 304.203,
+    "deviation": "7.99"
+  },
+  {
+    "date": "2022-10-20",
+    "predictedValue": 286.87350000000004,
+    "actualValue": 303.283,
+    "deviation": "5.41"
+  },
+  {
+    "date": "2022-10-21",
+    "predictedValue": 295.962,
+    "actualValue": 315.575,
+    "deviation": "6.22"
+  },
+  {
+    "date": "2022-10-22",
+    "predictedValue": 293.82050000000004,
+    "actualValue": 287.796,
+    "deviation": "2.09"
+  },
+  {
+    "date": "2022-10-23",
+    "predictedValue": 286.438,
+    "actualValue": 291.135,
+    "deviation": "1.61"
+  },
+  {
+    "date": "2022-10-24",
+    "predictedValue": 291.071,
+    "actualValue": 292.405,
+    "deviation": "0.46"
+  },
+  {
+    "date": "2022-10-25",
+    "predictedValue": 289.0355,
+    "actualValue": 295.344,
+    "deviation": "2.14"
+  },
+  {
+    "date": "2022-10-26",
+    "predictedValue": 287.9205,
+    "actualValue": 293.824,
+    "deviation": "2.01"
+  },
+  {
+    "date": "2022-10-27",
+    "predictedValue": 297.497,
+    "actualValue": 295.482,
+    "deviation": "0.68"
+  },
+  {
+    "date": "2022-10-28",
+    "predictedValue": 296.0795,
+    "actualValue": 313.625,
+    "deviation": "5.59"
+  },
+  {
+    "date": "2022-10-29",
+    "predictedValue": 305.0775,
+    "actualValue": 301.666,
+    "deviation": "1.13"
+  },
+  {
+    "date": "2022-10-30",
+    "predictedValue": 302.568,
+    "actualValue": 319.027,
+    "deviation": "5.16"
+  },
+  {
+    "date": "2022-10-31",
+    "predictedValue": 294.5955,
+    "actualValue": 332.795,
+    "deviation": "11.48"
+  },
+  {
+    "date": "2022-11-01",
+    "predictedValue": 288.4735,
+    "actualValue": 344.924,
+    "deviation": "16.37"
+  },
+  {
+    "date": "2022-11-02",
+    "predictedValue": 278.1335,
+    "actualValue": 316.611,
+    "deviation": "12.15"
+  },
+  {
+    "date": "2022-11-03",
+    "predictedValue": 277.4995,
+    "actualValue": 300.896,
+    "deviation": "7.78"
+  },
+  {
+    "date": "2022-11-04",
+    "predictedValue": 288.2905,
+    "actualValue": 322.707,
+    "deviation": "10.66"
+  },
+  {
+    "date": "2022-11-05",
+    "predictedValue": 291.994,
+    "actualValue": 305.27,
+    "deviation": "4.35"
+  },
+  {
+    "date": "2022-11-06",
+    "predictedValue": 279.871,
+    "actualValue": 309.453,
+    "deviation": "9.56"
+  },
+  {
+    "date": "2022-11-07",
+    "predictedValue": 276.6925,
+    "actualValue": 308.523,
+    "deviation": "10.32"
+  },
+  {
+    "date": "2022-11-08",
+    "predictedValue": 277.0765,
+    "actualValue": 309.795,
+    "deviation": "10.56"
+  },
+  {
+    "date": "2022-11-09",
+    "predictedValue": 285.7305,
+    "actualValue": 297.593,
+    "deviation": "3.99"
+  },
+  {
+    "date": "2022-11-10",
+    "predictedValue": 275.88750000000005,
+    "actualValue": 313.774,
+    "deviation": "12.07"
+  },
+  {
+    "date": "2022-11-11",
+    "predictedValue": 287.7875,
+    "actualValue": 330.521,
+    "deviation": "12.93"
+  },
+  {
+    "date": "2022-11-12",
+    "predictedValue": 280.43399999999997,
+    "actualValue": 300.505,
+    "deviation": "6.68"
+  },
+  {
+    "date": "2022-11-13",
+    "predictedValue": 290.196,
+    "actualValue": 316.607,
+    "deviation": "8.34"
+  },
+  {
+    "date": "2022-11-14",
+    "predictedValue": 284.5245,
+    "actualValue": 304.009,
+    "deviation": "6.41"
+  },
+  {
+    "date": "2022-11-15",
+    "predictedValue": 283.399,
+    "actualValue": 302.403,
+    "deviation": "6.28"
+  },
+  {
+    "date": "2022-11-16",
+    "predictedValue": 283.3295,
+    "actualValue": 313.873,
+    "deviation": "9.73"
+  },
+  {
+    "date": "2022-11-17",
+    "predictedValue": 291.5085,
+    "actualValue": 310.252,
+    "deviation": "6.04"
+  },
+  {
+    "date": "2022-11-18",
+    "predictedValue": 286.928,
+    "actualValue": 327.226,
+    "deviation": "12.32"
+  },
+  {
+    "date": "2022-11-19",
+    "predictedValue": 293.332,
+    "actualValue": 299.92,
+    "deviation": "2.20"
+  },
+  {
+    "date": "2022-11-20",
+    "predictedValue": 289.4765,
+    "actualValue": 299.797,
+    "deviation": "3.44"
+  },
+  {
+    "date": "2022-11-21",
+    "predictedValue": 281.6095,
+    "actualValue": 308.687,
+    "deviation": "8.77"
+  },
+  {
+    "date": "2022-11-22",
+    "predictedValue": 291.1275,
+    "actualValue": 287.198,
+    "deviation": "1.37"
+  },
+  {
+    "date": "2022-11-23",
+    "predictedValue": 285.0655,
+    "actualValue": 310.98,
+    "deviation": "8.33"
+  },
+  {
+    "date": "2022-11-24",
+    "predictedValue": 251.7715,
+    "actualValue": 305.632,
+    "deviation": "17.62"
+  },
+  {
+    "date": "2022-11-25",
+    "predictedValue": 262.2285,
+    "actualValue": 321.667,
+    "deviation": "18.48"
+  },
+  {
+    "date": "2022-11-26",
+    "predictedValue": 291.384,
+    "actualValue": 290.144,
+    "deviation": "0.43"
+  },
+  {
+    "date": "2022-11-27",
+    "predictedValue": 267.4615,
+    "actualValue": 268.678,
+    "deviation": "0.45"
+  },
+  {
+    "date": "2022-11-28",
+    "predictedValue": 264.334,
+    "actualValue": 303.557,
+    "deviation": "12.92"
+  },
+  {
+    "date": "2022-11-29",
+    "predictedValue": 257.815,
+    "actualValue": 296.752,
+    "deviation": "13.12"
+  },
+  {
+    "date": "2022-11-30",
+    "predictedValue": 259.3125,
+    "actualValue": 313.938,
+    "deviation": "17.40"
+  },
+  {
+    "date": "2022-12-01",
+    "predictedValue": 269.258,
+    "actualValue": 306.895,
+    "deviation": "12.26"
+  },
+  {
+    "date": "2022-12-02",
+    "predictedValue": 279.0095,
+    "actualValue": 318.85,
+    "deviation": "12.50"
+  },
+  {
+    "date": "2022-12-03",
+    "predictedValue": 283.4335,
+    "actualValue": 301.965,
+    "deviation": "6.14"
+  },
+  {
+    "date": "2022-12-04",
+    "predictedValue": 265.464,
+    "actualValue": 301.758,
+    "deviation": "12.03"
+  },
+  {
+    "date": "2022-12-05",
+    "predictedValue": 251.4915,
+    "actualValue": 307.472,
+    "deviation": "18.21"
+  },
+  {
+    "date": "2022-12-06",
+    "predictedValue": 266.288,
+    "actualValue": 1.012,
+    "deviation": "26213.04"
+  },
+  {
+    "date": "2022-12-07",
+    "predictedValue": 270.02250000000004,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-08",
+    "predictedValue": 263.435,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-09",
+    "predictedValue": 279.247,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-10",
+    "predictedValue": 281.9895,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-11",
+    "predictedValue": 313.22249999999997,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-12",
+    "predictedValue": 305.996,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-13",
+    "predictedValue": 300.97299999999996,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-14",
+    "predictedValue": 303.1755,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-15",
+    "predictedValue": 296.956,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-16",
+    "predictedValue": 309.18399999999997,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-17",
+    "predictedValue": 324.207,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-18",
+    "predictedValue": 296.044,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-19",
+    "predictedValue": 297.18399999999997,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-20",
+    "predictedValue": 318.07,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-21",
+    "predictedValue": 322.4875,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-22",
+    "predictedValue": 330.021,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-23",
+    "predictedValue": 317.19,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-24",
+    "predictedValue": 261.767,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-25",
+    "predictedValue": 98.79750000000001,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-26",
+    "predictedValue": 299.8035,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-27",
+    "predictedValue": 326.671,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-28",
+    "predictedValue": 326.771,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-29",
+    "predictedValue": 331.658,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-30",
+    "predictedValue": 328.461,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2022-12-31",
+    "predictedValue": 331.992,
+    "deviation": "NaN"
+  },
+  {
+    "date": "2023-01-01",
+    "predictedValue": 1.1629999999999998,
+    "deviation": "NaN"
+  }
+]
