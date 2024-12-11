@@ -131,11 +131,20 @@ const main = async () => {
 
     const result = denormalizedPredictions.map((values, index) => {
         const date = startDate.add(index * 15, 'minutes').toDate();
+        const actualEntry = testData[index];
 
-        const data = values.reduce((obj: { [key: string]: number }, value, index) => {
-            obj[`Device ${index + 1}`] = value;
+        const data = values.reduce((obj: { [key: string]: { predicted: number, actual: number, deviation: number } }, value, valueIndex) => {
+            const actualValue = actualEntry.values[valueIndex] ?? 0;
+            const deviceIndex = `Device ${valueIndex + 1}`;
+
+            const deviation = Math.abs(value - actualValue) / actualValue * 100;
+
+            obj[deviceIndex].predicted = value;
+            obj[deviceIndex].actual = actualValue;
+            obj[deviceIndex].deviation = deviation;
+
             return obj;
-        }, {} as { [key: string]: number });
+        }, {} as { [key: string]: { predicted: number, actual: number, deviation: number } });
 
         return { date, ...data };
     })
