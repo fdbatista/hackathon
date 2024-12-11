@@ -19,14 +19,14 @@ const loadData = async (): Promise<{ datetime: Date; values: number[] }[]> => {
         fs.createReadStream('data/input/energy-data.csv')
             .pipe(csv({ separator: ';' }))
             .on('data', (row) => {
-                const dateTimeStr = `${row['Datum']} ${row['Uhrzeit (Von)']}`;
+                const dateTimeStr = `${row.Datum} ${row['Uhrzeit (Von)']}`;
                 const dayJs = dayjs(dateTimeStr, 'DD.MM.YYYY HH:mm:ss');
 
                 const datetime = dayJs.toDate();
 
                 const values = Object.keys(row)
                     .filter((key) => key.startsWith('KWH'))
-                    .map((key) => parseFloat(row[key].replace(',', '.')));
+                    .map((key) => Number.parseFloat(row[key].replace(',', '.')));
 
                 data.push({ datetime, values });
             })
@@ -57,7 +57,7 @@ const preprocessData = (data: { datetime: Date; values: number[] }[]): { X: numb
 
 const getModel = async (inputShape: [number, number]): Promise<tf.LayersModel> => {
     if (fs.existsSync(modelPath)) {
-        return await tf.loadLayersModel(`${modelPath}/model.json`);
+        return await tf.loadLayersModel(`file://${modelPath}/model.json`);
     }
 
     const model = tf.sequential();
@@ -80,8 +80,8 @@ const trainModel = async (model: tf.LayersModel, X: number[][][], y: number[][])
     const yTensor = tf.tensor2d(y);
 
     await model.fit(XTensor, yTensor, {
-        epochs: 20,
-        batchSize: 32,
+        epochs: 1,
+        batchSize: 4096,
         validationSplit: 0.2,
         callbacks: tf.callbacks.earlyStopping({ patience: 3 }),
     });
@@ -89,7 +89,7 @@ const trainModel = async (model: tf.LayersModel, X: number[][][], y: number[][])
     XTensor.dispose();
     yTensor.dispose();
 
-    await model.save(modelPath);
+    await model.save(`file://${modelPath}`);
 }
 
 const predict = async (model: tf.LayersModel, input: number[][][]): Promise<number[][]> => {
@@ -110,7 +110,7 @@ const main = async () => {
     const trainData = data.filter((entry) => entry.datetime < new Date('2024-01-01'));
     const testData = data.filter((entry) => entry.datetime >= new Date('2024-01-01'));
 
-    // Preprocess data
+    // Preprocess data0
     const { X: X_train, y: y_train } = preprocessData(trainData);
     const { X: X_test } = preprocessData(testData);
 
@@ -128,7 +128,7 @@ const main = async () => {
     // Denormalize predictions
     const denormalizedPredictions = scaler.inverseTransform(predictions);
 
-    fs.writeFileSync(`data/output/predictions-${new Date().valueOf()}.json`, JSON.stringify(denormalizedPredictions, null, 2));
+    fs.writeFileSync(`data/output/forecast-${new Date().valueOf()}.json`, JSON.stringify(denormalizedPredictions, null, 2));
 
     // Return results
     return denormalizedPredictions;
