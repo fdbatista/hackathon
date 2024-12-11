@@ -1,6 +1,5 @@
 import * as tf from '@tensorflow/tfjs-node';
 import * as fs from 'fs';
-import * as path from 'path';
 import csv from 'csv-parser';
 
 import dayjs from 'dayjs';
@@ -128,11 +127,20 @@ const main = async () => {
     // Denormalize predictions
     const denormalizedPredictions = scaler.inverseTransform(predictions);
 
-    fs.writeFileSync(`data/output/forecast-${new Date().valueOf()}.json`, JSON.stringify(denormalizedPredictions, null, 2));
+    const startDate = dayjs().startOf('year');
 
-    // Return results
-    return denormalizedPredictions;
+    const result = denormalizedPredictions.map((values, index) => {
+        const date = startDate.add(index * 15, 'minutes').toDate();
 
+        const data = values.reduce((obj: { [key: string]: number }, value, index) => {
+            obj[`Device ${index + 1}`] = value;
+            return obj;
+        }, {} as { [key: string]: number });
+
+        return { date, ...data };
+    })
+
+    fs.writeFileSync(`data/output/forecast-${new Date().valueOf()}.json`, JSON.stringify(result, null, 2));
 }
 
 main()
